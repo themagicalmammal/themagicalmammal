@@ -1,4 +1,4 @@
-<img alt="Hello" width="250px" src="https://i.imgur.com/U6Gpo6U.gif" />
+<img alt="Hello" width="250px" src="https://i.imgur.com/Fihbexl.gif" />
 
 I'm Dipan, currently doing my Master's in the University of Leeds in [Data Science and Analytics](https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc)  from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Leeds, England</b>. I am originally from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Indore, India</b>. 
 
@@ -46,7 +46,7 @@ GitHub Activity</h3>
 <h3><img src="https://i.imgur.com/xGG5c7N.png" width="20"/>
 QR Code</h3>
 
-<img alt="QRCode" width="250px" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/main/qrcode.png" />
+<img alt="QRCode" width="200px" src="https://i.imgur.com/DSHPHdq.png" />
 
 <details>
 <summary> &#9655;</summary>
