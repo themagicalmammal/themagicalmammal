@@ -1,12 +1,18 @@
 <img alt="Hello" width="200px" src="https://i.imgur.com/U6Gpo6U.gif" />
 
-I'm Dipan, currently doing my Master's in University of Leeds in [Data Science and Analytics](https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc)  from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Leeds, England</b>. I am originally from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Indore, India</b>.</p>
+I'm Dipan, currently doing my Master's in the University of Leeds in [Data Science and Analytics](https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc)  from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Leeds, England</b>. I am originally from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Indore, India</b>. 
 
-<h3>My Stats</h3>
+<h3><img src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626284.png?token=exp=1648669945~hmac=8186fb3aa027698772d005a17fdf5f79" width="20"/>  Spotify Playing</h3>
 
-![Dipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=themagicalmammal&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Spotify](https://spotify-pw0mefqpu-spotifydipan.vercel.app/api/spotify)](https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6)
 
-<h3>Where to find me</h3>
+<h3><img src="https://cdn-icons-png.flaticon.com/512/164/164424.png" width="20"/> 
+My Stats</h3>
+
+![Dipan's GitHub stats](https://github-readme-stats-bay-ten-48.vercel.app/api?username=themagicalmammal&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<h3><img src="https://cdn-icons-png.flaticon.com/128/236/236831.png" width="20"/> 
+Where to find me</h3>
 <a href="https://github.com/themagicalmammal/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
 <a href="https://uk.linkedin.com/in/themagicalmammal/"> <img alt="Linkedin" width="40px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
 <a href="https://www.reddit.com/user/themagicalmammal/"> <img alt="Reddit" width="40px" src="https://i.imgur.com/E8vTLyb.png" /></a>
