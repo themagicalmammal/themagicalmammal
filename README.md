@@ -1,4 +1,4 @@
-<img alt="Hello" width="200px" src="https://i.imgur.com/U6Gpo6U.gif" />
+<img alt="Hello" width="250px" src="https://i.imgur.com/U6Gpo6U.gif" />
 
 I'm Dipan, currently doing my Master's in the University of Leeds in [Data Science and Analytics](https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc)  from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Leeds, England</b>. I am originally from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Indore, India</b>. 
 
@@ -31,12 +31,29 @@ Where to find me</h3>
 <details>
 <summary> &#9655;</summary>
 
-<h3>Credits</h3>
+<h3><img src="https://cdn-icons-png.flaticon.com/128/2450/2450215.png" width="20"/>
+QR Code</h3>
 
-1. [Sourajit Karmakar](https://github.com/sourajitk)
-2. [Thomas Guibert](https://github.com/thmsgbrt)
-3. [Siv Ram Shastri Jonnalagadda](https://github.com/Prince-Shivaram)
-4. [Anurag Hazra](https://github.com/anuraghazra)
-5. [Owl4ce](https://github.com/owl4ce)
+<img alt="QRCode" width="250px" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/main/qrcode.png" />
+
+<details>
+<summary> &#9655;</summary>
+<h3><img src="https://cdn-icons-png.flaticon.com/512/3791/3791146.png" width="20"/>
+Credits</h3>
+
+1. <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13"/> [Sourajit Karmakar](https://github.com/sourajitk)
+2. <img src="https://cdn-icons-png.flaticon.com/128/197/197564.png" width="13"/> [Thomas Guibert](https://github.com/thmsgbrt)
+3. <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> [Siv Ram Shastri Jonnalagadda](https://github.com/Prince-Shivaram)
+4. <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> [Anurag Hazra](https://github.com/anuraghazra)
+5. <img src="https://cdn-icons-png.flaticon.com/128/197/197559.png" width="13"/> [Owl4ce](https://github.com/owl4ce)
+
+<details>
+<summary> &#9655;</summary>
+<h3><img src="https://cdn-icons.flaticon.com/png/128/3663/premium/3663455.png?token=exp=1648672008~hmac=cab906ae5df43b8b38f32ac7c1484d91" width="20"/>
+Visitor Count</h3>
+<img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
+</details>
+
+</details>
 
 </details>
