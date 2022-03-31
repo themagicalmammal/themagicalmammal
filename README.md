@@ -34,6 +34,12 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/themagicalmammal/themagicalmammal/pull/2) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+2. 💪 Opened PR [#2](https://github.com/themagicalmammal/themagicalmammal/pull/2) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+3. 🎉 Merged PR [#1](https://github.com/themagicalmammal/themagicalmammal/pull/1) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+4. ❗️ Opened issue [#11](https://github.com/intersimone999/silos-apps/issues/11) in [intersimone999/silos-apps](https://github.com/intersimone999/silos-apps)
+5. ❗️ Opened issue [#2](https://github.com/eyenpi/cutefish-git/issues/2) in [eyenpi/cutefish-git](https://github.com/eyenpi/cutefish-git)
+<!--END_SECTION:activity-->
 
 <details>
 <summary> &#9655;</summary>
