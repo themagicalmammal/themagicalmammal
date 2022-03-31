@@ -66,6 +66,15 @@ Credits</h3>
 <h3><img src="https://i.imgur.com/XJ0hI8P.png" width="20"/>
 Visitor</h3>
 <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
+<br><br>
+
+<details>
+<summary> &#9655;</summary>
+<h3><img src="https://i.imgur.com/x8tsLuE.png" width="20"/>
+Trophies</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=themagicalmammal&theme=discord)](https://github.com/themagicalmammal) 
+</details>
 </details>
 
 </details>
