@@ -1,17 +1,19 @@
 <img alt="Hello" width="250px" src="https://i.imgur.com/Fihbexl.gif" />
 
+<codersrank-skills-chart username="themagicalmammal"></codersrank-skills-chart>
+
 I'm Dipan, currently doing my Master's in the University of Leeds in [Data Science and Analytics](https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc)  from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Leeds, England</b>. I am originally from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Indore, India</b>. 
 
-<h3><img src="https://i.imgur.com/aSVPWXc.png" width="20"/>  Spotify Playing</h3>
+<h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
                                                                                             
 [![Spotify](https://spotify-pw0mefqpu-spotifydipan.vercel.app/api/spotify)](https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6)
 
-<h3><img src="https://i.imgur.com/84QPnNl.png" width="20"/> 
+<h3><img src="https://i.imgur.com/84QPnNl.png" width="18"/>  
 My Stats</h3>
 
 ![Dipan's GitHub stats](https://github-readme-stats-bay-ten-48.vercel.app/api?username=themagicalmammal&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<h3><img src="https://i.imgur.com/yQHTmCW.png" width="20"/> 
+<h3><img src="https://i.imgur.com/yQHTmCW.png" width="18"/>  
 Where to find me</h3>
 <a href="https://github.com/themagicalmammal/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
 <a href="https://uk.linkedin.com/in/themagicalmammal/"> <img alt="Linkedin" width="40px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
@@ -30,7 +32,7 @@ Where to find me</h3>
 
 <details>
 <summary> &#9655;</summary>
-<h3><img src="https://i.imgur.com/Iv6o6Gf.png" width="20"/>
+<h3><img src="https://i.imgur.com/Iv6o6Gf.png" width="18"/>  
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
@@ -43,7 +45,7 @@ GitHub Activity</h3>
 
 <details>
 <summary> &#9655;</summary>
-<h3><img src="https://i.imgur.com/xGG5c7N.png" width="20"/>
+<h3><img src="https://i.imgur.com/xGG5c7N.png" width="18"/>  
 QR Code</h3>
 
 <img alt="QRCode" width="200px" src="https://i.imgur.com/DSHPHdq.png" />
@@ -51,7 +53,7 @@ QR Code</h3>
 <details>
 <summary> &#9655;</summary>
 
-<h3><img src="https://i.imgur.com/1mimHIo.png" width="20"/>
+<h3><img src="https://i.imgur.com/1mimHIo.png" width="18"/>  
 Credits</h3>
 
 1. <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13"/> [Sourajit Karmakar](https://github.com/sourajitk)
@@ -63,22 +65,27 @@ Credits</h3>
 
 <details>
 <summary> &#9655;</summary>
-<h3><img src="https://i.imgur.com/XJ0hI8P.png" width="20"/>
+<h3><img src="https://i.imgur.com/XJ0hI8P.png" width="18"/>  
 Visitor</h3>
 <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
 <br><br>
 
 <details>
 <summary> &#9655;</summary>
-<h3><img src="https://i.imgur.com/x8tsLuE.png" width="20"/>
+<h3><img src="https://i.imgur.com/x8tsLuE.png" width="18"/>  
 Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=themagicalmammal&theme=discord)](https://github.com/themagicalmammal) 
-</details>
-</details>
+  
+<details>
+<summary> &#9655;</summary>
+<h3><img src="https://i.imgur.com/voWLaLX.gif" width="17"/>  
+Streak</h3>
 
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=themagicalmammal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </details>
-
 </details>
-
+</details>
+</details>
+</details>
 </details>
