@@ -47,12 +47,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#801](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/801) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🎉 Merged PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-3. 💪 Opened PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-4. ❗️ Closed issue [#7](https://github.com/themagicalmammal/themagicalmammal/issues/7) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-5. 🎉 Merged PR [#4](https://github.com/themagicalmammal/themagicalmammal/pull/4) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -100,4 +94,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Friday, 1 April, 22:39 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Friday, 1 April, 22:42 BST
