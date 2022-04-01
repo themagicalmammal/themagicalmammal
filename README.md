@@ -47,6 +47,12 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+2. 💪 Opened PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+3. ❗️ Closed issue [#7](https://github.com/themagicalmammal/themagicalmammal/issues/7) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+4. 🎉 Merged PR [#4](https://github.com/themagicalmammal/themagicalmammal/pull/4) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+5. 💪 Opened PR [#4](https://github.com/themagicalmammal/themagicalmammal/pull/4) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
