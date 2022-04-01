@@ -12,8 +12,8 @@ Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> Leeds</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMSPVZUc6lmVxoVVLd0RopVchpVTPdHRxJUS2MDZDZTcWNVOuV1S3ZTU4JmNXtkaqhHUQRnZPB1KCdWeJhGf8R3SXNTcxtGT8xXbyMmWSpHePBDV2wkUvZWeahXRWVUahRmMCp3YwMGSDB1N3VEf85WNBhTW8xnZ0kGdvhzaRNmasp1SGJ3ToV1Sad2bHF3VtxHfr4kaiNkZCJXYaRndSlmcxVzVthUR4h1U0QnRUdjMDxmU6VWN2U0bwMmWrckaCFHcMFTTQBFTMNFURRUNV5GZvFHOrF2ZVdUOFd3VhpmWkxHfnx0aopEf8ZDN5lVN5hmRyZFd2oFchx2d5N2c0lEWDpHOxZ0RMBTYPZXV5czbsxHfMhEU1YHRTd3VOBnNyY1bJhDO2FmbalVWItUO4ImbsRmW5wGZEZXbt9UVlZTY3UFeEN1TLxEVZJWVQdTMERUV0xmVxdGN04WM6llU1NVQsZ1dLdnU5RjaDBXbwEkS2FlNIx0coJUTqpUexcTZ3E1UoZ2SPlTUBt2dQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0TP3dnaGdGcNFnMzU1NYRjY5FXepV3NHBXWNZVdDdFMjd2VBtiVWdTbmJmVMFXewQ0UYtyKaR2QxQmN0RHcalEetZ2Q0djVBxma2E0Q1g0UIpkcGZlbJhlTxNEf8h3MJdUUm1kQQh1c5cjWmZ2MmtiaFJDV3JlQV1WSHV1UzhUQrF1UNx2bapGayUkMXNUQDhURrEWdvpVY00kV05UePRXaNBjcu9EMoVXbiZVaS1ESMFTWaFkeIpWcsZ0UkJneohmTFRmMWdTS0J1N6VUO4dlZrhnMItSdXlnayIWdUlEOnt0a8x3Uy4kcvFDckl0KzYWQllEVspFUk5WdGJEZ2RnarolSBRGbKlDOxsCaxUlM1QneSpVO5pkcVBnZ092VsFVeMZkYQ1Uc69WTnNkY3ZHU8xnVndzbsxHfMhEU1YHRTd3VOB3KXh1cBhDOzVGWZZ2dzwUenx0awJkS50mQEZXctVXVSZjN2UVNUNVTTxEVXp3aQdTM6RkU1ETV192b04WM6llU1NVQsZ1dLdnU5RjaDBXbwEkS2FlNIx0coJUTqpUexcTZ3E1U0Z2SPlTUBt2dQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIvlDbwl0KUFjTPNzKzMUN4R1SjJkVSJHTvNEexkVTXdFM4hWbWZmcjtUbnhDf8VWb1cEexdEZwRnavpEOBJ2Skt0RzcmWaxEZUd3ZxYldGlFSJFXNThkbUVjTEBlZUZjYFJlcxljMOFXZrcldsVWZq5WUCV0M2hUVTNHTRRnNtx0dxpkUotkRqVFRN12Q25mS1M3bmdmV4ZTSXNVSnlGOxRzYJRFa2p2ZndVTFVENjtUZoBlexBHaHlFcElWdBF0Tvh0K1YnU2g1R2EzVlNXTDVkMPNVM4sUY1hlR5omRFx0Q2IkN0pXOzpkayZmVYVTavx2NOJHW4EkZ4ZVavNUN5dEaCRmd5YnQxIFSiNTMKhjeLZ1STVnNZBnQKpXOUdnYOJmMpJXR4o2Y1djd1g1Z38Gb8xHTIBVN2R0U3dlTwNkMWVXV4wHftZDSipVSIxkM3dDbqljS4omTEZXcptiVaFXY2QFcqNVSlJWUjp3aQdTMERkWoZlVqlUW04WM6llU1NVQsZ1dLdnU5RjaDBXbwEkS2FlNIx0coJUTqpUexcTZ3E1U0Z2SPlTUBt2dQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /></p>
 <p>Above are the last 3 pictures posted by  <a href="https://www.instagram.com/visitleeds/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" 
-width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> 1°C, 
-<i>broken clouds</i></b></br>Today, the sun rises at <b>05:14</b> and sets at <b>18:28</b>.</p>
+width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> -1°C, 
+<i>scattered clouds</i></b></br>Today, the sun rises at <b>05:14</b> and sets at <b>18:28</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
                                                                                             
@@ -47,12 +47,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#801](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/801) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🎉 Merged PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-3. 💪 Opened PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-4. ❗️ Closed issue [#7](https://github.com/themagicalmammal/themagicalmammal/issues/7) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-5. 🎉 Merged PR [#4](https://github.com/themagicalmammal/themagicalmammal/pull/4) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -100,4 +94,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Friday, 1 April, 16:25 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Friday, 1 April, 19:28 BST
