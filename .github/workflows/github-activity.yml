@@ -1,14 +1,14 @@
-name: Update README
+name: Github Activity
 
 on:
-  schedule:
-    - cron: '* */18 * * *'
+  schedule: # execute every 24 hours
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: generate
 
     steps:
       - uses: actions/checkout@v2
