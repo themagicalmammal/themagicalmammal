@@ -47,11 +47,11 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#801](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/801) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🎉 Merged PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-3. 💪 Opened PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-4. ❗️ Closed issue [#7](https://github.com/themagicalmammal/themagicalmammal/issues/7) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-5. 🎉 Merged PR [#4](https://github.com/themagicalmammal/themagicalmammal/pull/4) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+1. 🎉 Merged PR [#5](https://github.com/themagicalmammal/InterviewBit/pull/5) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
+2. 💪 Opened PR [#801](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/801) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🎉 Merged PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+4. 💪 Opened PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+5. ❗️ Closed issue [#7](https://github.com/themagicalmammal/themagicalmammal/issues/7) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
 <!--END_SECTION:activity-->
   
 <details>
