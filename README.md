@@ -12,7 +12,7 @@ Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> Leeds</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0TVGFnepZVMaV1SHdEaaFXYa10T3RUcClkNzQ2Q2EnVTljbVt0d2EFeiZzVLpma4BFU0Z2TQtiQnlXSoxHf0t0VzEXcrxEf81mMjplU6h3TwQlNMJ1bmlnW4VkVFlWYkJjQ6NGMjh0QQdzdFxHfuVTQ4kFf8ZGNpR3b4sWUjpGbatkRy9EaVtkWn92RxdVb8x3KOpmYDZmQyFmW0ZnUpJXc1cVbIVEeYNFN0ZEV3IzQsJlelVjNF9GMjp1KHpmQxBHTx0EUQxETTBVUEVTVuR2bxhzahdWVHlTR3dVYqpFZ8x3ZMtGaKxHf2QTeZVTeoZkcWRnNaBXYsdXejNHdJh1Q6hTcGdETwE2T2VVO38Gb8xHTIBVN2R0U3dlTwZjMW9WS4gjdh5mWZlFSLlDOi5GbkpVOsRGR21WbPVVZ2E2NVhHRT90SMRVWiVFU3EDREVFdsZVcnRDNuFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpkdRZDSMNHaC1kaKlXM3U2NRNFamt0T5EVQrdHUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMSP9EEMT1kaBpnUVd2dudjWDd1Z8x3SphnaYd3SSFXOOhHUVBXQ180NOlUeIVmY2N2SLdmRWJDailUVmp1VWJWU6VES8xXU0lmZOdGR3cWR0UnSI9kN1g3MVtGSJZUO0ckMXZVZoR3QT10d6dnQxR3ZqVUU0pGVVBlN5oFOOtST5YTTQdlTq9GN2s2c0h3cr8kUw4kTwokcGxHfmdUbUtybN1GZLxkUxhTV1t2Yp92cRtSQGdnRWB1KxQUUshkatRHROZDTnBleZlETTVDOh92M41kTrcldV1UUItCWrkEOrcXVM5WV5xHfMlTeJdXQKticMV1MUFXYzoGOaljeJBVQwwkWxNENH1GRkxHfXh1Q6hTcGdETwE2T2VVO38Gb8xHTIBVN2R0U3dlTwtyVYNXQ4gzclhVWmd3MMl3ZMtGcCpUOtJER2FXb1VlU2YjNVVDVT10UMR1V6tGU3EjeEJVNxUVdv9GNuFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpkdRZDSMNHaC1kaKlXM3U2NRNFdmt0T5EVQrdHUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwI9UlRxpXaWFjWVt0RHhmWxFmWN90dERnQro3MkNkNxZ1U54WVL9WSQhDU1glcml3MxJGZj9kd8xHUZhVYvlWRjVmW5VDMHhlV3Y0bxEDNtxGUxQEeuplM44GZxoGb2gDSZp3YwMGSDB1N3VEf85WNBhTW8xnZ0kGdvhzaRNmasp1SGJ3ToV1Sad2bHF3VtxHfrETUUlTZUdmYaRndXxHf3UHW5RkT11EMYl1aER1NyMEbSpXZ1YTRJJzYatyRqJUcwxUMNBFUMx0UQFFR1Ulbk9Wc4sWYnV1R5UEOXFmaaRGf8dGTrhmS8xnN0kXW1kHaGJnV0ZjWwFGb3l3YzRXSYNke4EnRHxEMh9kdVlzNvxGf8xESQVjdEN1dX5EcDJjV1VFO8xXb2gkYalESMJzd3wma5oEOq5ER2FXarYlWxFmNUBnaTlUZiF1Y6tGU3EDREpFaWZlaJlFNuFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpkdRZDSMNHaC1kaKlXM3U2NRNFdmt0T5EVQrdHUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p>Above are the last 3 pictures posted by  <a href="https://www.instagram.com/visitleeds/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" 
-width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> -6°C, 
+width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> -7°C, 
 <i>clear sky</i></b></br>Today, the sun rises at <b>05:11</b> and sets at <b>18:30</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
@@ -47,12 +47,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/themagicalmammal/InterviewBit/pull/5) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
-2. 💪 Opened PR [#801](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/801) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. 🎉 Merged PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-4. 💪 Opened PR [#8](https://github.com/themagicalmammal/themagicalmammal/pull/8) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-5. ❗️ Closed issue [#7](https://github.com/themagicalmammal/themagicalmammal/issues/7) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -100,4 +94,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Saturday, 2 April, 02:02 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Saturday, 2 April, 04:26 BST
