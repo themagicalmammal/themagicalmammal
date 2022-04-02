@@ -47,11 +47,11 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/themagicalmammal/InterviewBit/pull/22) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
-2. 🎉 Merged PR [#21](https://github.com/themagicalmammal/InterviewBit/pull/21) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
-3. 🎉 Merged PR [#20](https://github.com/themagicalmammal/InterviewBit/pull/20) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
-4. 🎉 Merged PR [#19](https://github.com/themagicalmammal/InterviewBit/pull/19) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
-5. 🎉 Merged PR [#18](https://github.com/themagicalmammal/InterviewBit/pull/18) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
+1. ❗️ Closed issue [#152](https://github.com/themagicalmammal/wikibot/issues/152) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
+2. 🎉 Merged PR [#185](https://github.com/themagicalmammal/wikibot/pull/185) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
+3. 🎉 Merged PR [#183](https://github.com/themagicalmammal/wikibot/pull/183) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
+4. 🎉 Merged PR [#182](https://github.com/themagicalmammal/wikibot/pull/182) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
+5. 🎉 Merged PR [#181](https://github.com/themagicalmammal/wikibot/pull/181) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
 <!--END_SECTION:activity-->
   
 <details>
