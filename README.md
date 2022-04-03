@@ -9,11 +9,11 @@ I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13"/> <b>Indore,
 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="18"/>   
 Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> Leeds</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0mYRBTSwxHfTNFO042SkBlQ0E3capUeRRGUx5kVkh3QBpkUyVldidTYMR0d3JEVkNmSENmTXdTN2pHNNFGRhFWM8xHTVtyaGd1N3YXRSZWeBBXUh9GdzoVeqhjVURFV0NUZywHfaRzbOFGMpRXTZZHTkFzc4k1czQmasF2Uz8mWFJjZ8xHOhp1R5pWO4EkaNNke3Fjd4QHe1IXc3A3UDZkN1gFV4QzRJRWaI1WbE9UMHt2Y0tUO1ZUb3Z2cxEzYEpnc8xXWNVTeyVFUKJ3cvtmSuVVe4UEdqFmashjdxpnRqJUercDaNllewo1NTFXcNdzR1oXOS92KXVUYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFEW2N2c5IXYYp1YJ5GT4lFTs9mTKljbaRFMOZXdVNWdhdDW5oHVNt0NUFGTwA1NOZkWYxWMWN3b0UjbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMSPZdEWzYFazomMPNGMXhneyMkR2kUQhJlYNlzcO9mWVJHR8xHThlWRltyM4AFWOdVZ0JFcRF3M3U2UzcGf8xHf6NmYRBFOGN1NKpWc3xHfQBHT3EzKyh1NaplMo52UWllRElmMKd1NytSUrtiaOd1RURXeHt0SxN3Nnx0KNhXYGF0SZB3KolEdUNma2IzRGhWWsdFSzhGf8RVWtxmMzAjMK1EVuVXT0kzcUJnN1MWaEdkQxcFZWN3US9GVuhnN38kN2EVTopXR2VVe5YjN2A3YNlHT2VETRRkcVtCN3gjWw0EdwckdIhnaOJTV0wHfygVVpFmYyZjZJpEeLJ1TDhDUKRzSad0aDZ1NkljYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFFWs1UT5I3VIplYVhkSys2NrxWO1gTbWpWMOZWdVV2UhdjU5QFVONkYTFmeV5ENOZkWVhHbVBHNZVTbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwItJWUwkEc8x3UThDNutEZQJENxNnW1oXUCFjcOZFZ4NUQKJlcVZnY14keEhUNodzbZVWYNNWSqlDdrNWdZh0SxhXeyd1KppEMrgneFVVTUd2Z0djWzMGbE9mUadFRFhDRlJDf8pFNv5UYwkGdNlldMRWMzhTWzNDZqxWYTNzbaVkMmxHf4EmWHlna5gTQq1EbPRFdTpFf8hXNyFmcydkeIlXMwsESrBTSzpGSt1GRPFzRrNGdLZVdG12dmNXMxMGR6JHf8lVT1kncVBlSyN3brpkbVlHOFRnahpGb4YXc6ZkaCl3K3gWTZpHMadzUxFXT3cUN6ljUvtyVFFGVwFFbx8UdHFWNUhWcr8Wd3cERZF2RJd2UklVbnVldFNGOutCWidVTutUMwcDbpZlS8xXaCRVMOZ2KVJWehZDVoR1UPNlcThlYV5ENOZkWYJlRWZXTZdDbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMSbiFFMJBHf8N1U4QjbLRGUCRTczplS5FFZQFnTWRGeDFkSSJXV2J2NhxER3dnQUR2YKR0YOd1N1Yne00UYEFWYxwHfMV1KrZ0V3cjdFJlZ5FEcRF2b0NjW5pGOWRFVUR3QlJDf8pFNv5UYwkGdNlldMRWMzhTWzNDZqxWYTNzbaVkMmxHf4EmWHlna5gTQq10Q6dXM2hDd4VjcxdDcTNkR2UDWUhDNHlEZphUbtR0Txc0ajR3S5UnRtdnZzFTMjRkeyxHfZ1UN5JXVQpkcz92aK5WV5hTR0pWYqxGO2FneGpmQ5tyNo1UW6BjW3MVcx10NHVje5I1brcVRhRFcRxWMPV3RhVDVoF3KvV3NHRUWhdUSnNFZZ1WQYZ3YzljchhlWjlkbMhXWMx2bOpUOupFVw4kd1V1Y1F2NYljeU10S3QVYMBDU34kRahFbxY1cvRTNuhmamx0KThUOod3S2gGR8xnbHR2d0xGO1I0VIJ2cJhnTppVeuBja3MVYjVnTSxWQHJzaQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0TUGtSS1R0ZIFXa5QXe3sSZPBlZy82YWZmetBXZj1WVzlFewkXZihFdMJVO312aoZGZ4UkNsZDbLZkZNVHW1RUR6JTWZJHZDp0YGRkVZdTSPl2NYhnZ6tya3kDZVd1YmVEVi1mM1YDT1kHTohkMDxGUFV0MxF2UTNHTnRnZPpldrEkUvpUMrF0SJd1USdFNnZXOhBzUWJmR0JTOys0ckp2KZlXbwNFSzQWUFlURvF2UZVWey9mUXtEOMlGa4ATZrtyMzJXY2Q1V3B3Rl92cygVN1NlbnJjcwJFaj5WQFx0Q2IkN0pXOzpkayZmVYVTavx2NOJHW4EkZ4ZVavNUN5dEaCRmd5YnQxIFSiNTMKhjeLZ1STVnNZBnQKpXOUBjYNJmM5JXQ4o2Y1h1TrQ1alxHfvV3NHRUWhdUSnNFZZ1WUYxWTNljcXhkWiVFSKJza3sGb5UDOtZlax4kZ1VVZTF2NSlDVU50QiNVY6VlT04kRaVFesVFc0kVNthmamx0KThUOod3S2gGR8xnbHR2d0xGO1I0VIJ2cJhnTppVeuBja3MVYjVnTSxWQHJzaQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwI90zd4cldEh2UElncnFmNxkmNmRFUSR2SZx0RvNnRtZlb0UlM3ImZSRjNohXOlFkM0QXZOVHaJ9Gf8VDdCx2QlRGTudlZnZGZBF0cYNUWKFnS5QVYYZ1VR1mY8x3cCpVYjZUOHZDaaRTcJNndipnVTpmaGRjUzE3Ttx0cMdGdjF2NsRkUw8Gd1smZhR3RTNlYPxHfvRTTpFjVORERLpkd2F1b2NVWr1mZldVMElDMKBTWKJFc2YldxZ1VKFTZEhWQF5kbQRFT8xHTXR1R3FkMmBHOyYkMUNFbvhUY1lkTahmYzxUU1c3Sw1Gb400amVXVENWb2NFTl9WbZ5WW1QHR2FWV650TRljd69kRwQFVmhjZRNWb3FTNYBTbNxHfHZ1Q6RXVPBFVxRUdONGVadndmxHfKNXZ8x3b1dzRElVYHl0ZTRWWtdWV2V0Y442KYJ2VN52SxAzNslmVKxHfpJEVx4kZrUlY5FmNUhGVT90UyNFWiVlT04kRahlUGZldNl1Nshmamx0KThUOod3S2gGR8xnbHR2d0xGO1I0VIJ2cJhnTppVeuBja3MVYjVnTSxWQHJzaQJTS5wUbXVjTklESEp1RCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /></p>
 <p>Above are the last 3 pictures posted by  <a href="https://www.instagram.com/visitleeds/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" 
-width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> -3°C, 
-<i>scattered clouds</i></b></br>Today, the sun rises at <b>05:08</b> and sets at <b>18:33</b>.</p>
+width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> -2°C, 
+<i>broken clouds</i></b></br>Today, the sun rises at <b>05:08</b> and sets at <b>18:33</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
                                                                                             
@@ -47,12 +47,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#213](https://github.com/themagicalmammal/wikibot/pull/213) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-2. 🎉 Merged PR [#212](https://github.com/themagicalmammal/wikibot/pull/212) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-3. 🎉 Merged PR [#211](https://github.com/themagicalmammal/wikibot/pull/211) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-4. 🎉 Merged PR [#210](https://github.com/themagicalmammal/wikibot/pull/210) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-5. 🎉 Merged PR [#208](https://github.com/themagicalmammal/wikibot/pull/208) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -100,4 +94,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Sunday, 3 April, 02:06 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Sunday, 3 April, 04:24 BST
