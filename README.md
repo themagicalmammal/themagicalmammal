@@ -13,7 +13,7 @@ Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> Leeds</h3>
 <p>Above are the last 3 pictures posted by  <a href="https://www.instagram.com/visitleeds/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" 
 width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> 2°C, 
-<i>broken clouds</i></b></br>Today, the sun rises at <b>05:05</b> and sets at <b>18:35</b>.</p>
+<i>overcast clouds</i></b></br>Today, the sun rises at <b>05:05</b> and sets at <b>18:35</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
                                                                                             
@@ -47,12 +47,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/themagicalmammal/themagicalmammal/pull/9) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-2. ❌ Closed PR [#213](https://github.com/themagicalmammal/wikibot/pull/213) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-3. 🎉 Merged PR [#212](https://github.com/themagicalmammal/wikibot/pull/212) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-4. 🎉 Merged PR [#211](https://github.com/themagicalmammal/wikibot/pull/211) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-5. 🎉 Merged PR [#210](https://github.com/themagicalmammal/wikibot/pull/210) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -100,4 +94,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Monday, 4 April, 02:06 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Monday, 4 April, 04:34 BST
