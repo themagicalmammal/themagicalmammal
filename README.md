@@ -47,6 +47,12 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#65](https://github.com/themagicalmammal/miner/pull/65) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
+2. 🎉 Merged PR [#64](https://github.com/themagicalmammal/miner/pull/64) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
+3. 🎉 Merged PR [#63](https://github.com/themagicalmammal/miner/pull/63) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
+4. 🎉 Merged PR [#62](https://github.com/themagicalmammal/miner/pull/62) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
+5. 🎉 Merged PR [#61](https://github.com/themagicalmammal/miner/pull/61) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
+<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
