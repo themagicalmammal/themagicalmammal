@@ -12,8 +12,8 @@ Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> Leeds</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0mYRBTSwxHfTNFO042SkBlQ0E3capUeRRGUx5kVkh3QBpkUyVlWYdTW2wHf5l3TulVUrsiZjNke0oWT3VmW3tUS3VUYWtWaxADMqtEWPlFWoRnTrUDeoRHayl3azIEV1QUZywHfaRzbOFGMpRXTZZHTkFzc4k1czQmasF2Uz8mWFJjZ8xHOhp1R5pWO4EkaNhDSTlGWk90b1IXc3A3UDZkN1gFV4QzRJRWaI1WbE9UMHt2Y0tUO1ZUb3Z2cxEzYEpnc8xXWNVTeyVFUKJ3cvtmSuVVe4UEdqFmashjdxpnRqJUercDaNllewo1NTFXcNdzR1oXOS92KXVUYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFEW2N2c5IXYYp1YJ5GT4lFTs9mTKljbaRFMOZXdVNWdhdDW5oHVNt0NUFGTwA1NOZkWYxWMWN3b0UjbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMSPZdEWzYFazomMPNGMXhneyMkR2kUQL9Uc4RHeN9mWVJHR8xHThZzRZJmN2skWNhkVLB3TRVnawRmMqlnMop3Tid3Q1FkQiBHO09GUXNWcJFTUuBTOppEW8xXSLVkUqp3d6p0V3I3KRt2Kq50VHRFd5d0SLF3c3cGTr0EehZUQLlFcrgWS0R1YqZjMHZEaZRnUMp1aQpVWtxmMzAjMK1EVuVXT0kzcUJnN1MWaEdkQxcFZWN3US9GVuhnN38kN2EVTopXR2VVe5YjN2A3YNlHT2VETRRkcVtCN3gjWw0EdwckdIhnaOJTV0wHfygVVpFmYyZjZJpEeLJ1TDhDUKRzSad0aDZ1NkljYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFFWs1UT5I3VIplYVhkSys2NrxWO1gTbWpWMOZWdVV2UhdjU5QFVONkYTFmeV5ENOZkWVhHbVBHNZVTbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0mYRBTSwxHfTNFO042SkBlQ0E3caVjeRJUMy5kVkh3QBpkUyVldqFWW1hka6xHfpRnVFREdHt0M4cWentiUupmS1wHfy5GbENnb510QEJlN8xXeox2U2MnUCdXcmpVVaJDNEVmM8xnW08mThBTa01UW2xEZxMHOZN3MkpGbhN1MvpVRyYGf8hTYadUeqlDOBpWTBZnQplWSzhXNyFmcydkeIlXMwsESrBTSzpGSt1GRPFzRrNGdLZVdG12dmNXMxMGR6JHf8lVT1kncVBlSyN3brpkbVlHOFRnahpGb4YXc6ZkaCl3K3gWTZpHMadzUxFXT3cUN6ljUvtyVFFGVwFFbx8UdHFWNUhWcr8Wd3cERZF2RJd2UklVbnVldFNGOutCWidVTutUMwcDbpZlS8xXaCRVMOZ2KVJWehZDVoR1UPNlcThlYV5ENOZkWYJlRWZXTZdDbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p>Above are the last 3 pictures posted by  <a href="https://www.instagram.com/visitleeds/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" 
-width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> 2°C, 
-<i>overcast clouds</i></b></br>Today, the sun rises at <b>05:05</b> and sets at <b>18:35</b>.</p>
+width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> 1°C, 
+<i>broken clouds</i></b></br>Today, the sun rises at <b>05:05</b> and sets at <b>18:35</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
                                                                                             
@@ -47,12 +47,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/themagicalmammal/themagicalmammal/pull/9) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-2. ❌ Closed PR [#213](https://github.com/themagicalmammal/wikibot/pull/213) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-3. 🎉 Merged PR [#212](https://github.com/themagicalmammal/wikibot/pull/212) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-4. 🎉 Merged PR [#211](https://github.com/themagicalmammal/wikibot/pull/211) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-5. 🎉 Merged PR [#210](https://github.com/themagicalmammal/wikibot/pull/210) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -100,4 +94,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Monday, 4 April, 04:34 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Monday, 4 April, 07:18 BST
