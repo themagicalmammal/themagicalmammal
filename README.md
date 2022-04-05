@@ -12,8 +12,8 @@ Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> Leeds</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMSbiFFMJBHf8N1U4QjbLRGUCRTczplSpd2QQJTYWRGeDFkSSJXV2JWdWFlandTdqZ3VOh1YG5mMxlmRwM2YJl2NsJFVIdHTsh0N3QFVmV1SqVncrwEeyEzaupXNFFWV0QUZywHfaRzbOFGMpRXTZZHTkFzc4k1czQmasF2Uz8mWFJjZ8xHOhp1R5pWO4EkaNBFVCl3V140b1IXc3A3UDZkN1gFV4QzRJRWaI1WbE9UMHt2Y0tUO1ZUb3Z2cxEzYEpnc8xXWNVTeyVFUKJ3cvtmSuVVe4UEdqFmashjdxpnRqJUercDaNllewo1NTFXcNdzR1oXOS92KXVUYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFEW2N2c5IXYYp1YJ5GT4lFTs9mTKljbaRFMOZXdVNWdhdDW5oHVNt0NUFGTwA1NOZkWYxWMWN3b0UjbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMSPZdEWzYFazomMPNGMXhneyMkR2kUQhR1V35EeN9mWVJHR8xHThl2alVEUN1UdnNzQ2EzNHJHf8VTY2Q1UtJnZOp1KlhTSJNzSrh0ZhRWaLBXN4xkR4oFcSFje1BDVZxEa6p0V3I3KRt2Kq50VHRFd5d0SLF3c3cGTr0EehZUQLlFcrgWS0R1YqZjMHZEaZhmULtUQZN2KuxmMWFERXNnd6pmYsdTeqJnN1MWaEdkQxcFZWN3US9GVuhnN38kN2EVTopXR2VVe5YjN2A3YNlHT2VETRRkcVtCN3gjWw0EdwckdIhnaOJTV0wHfygVVpFmYyZjZJpEeLJ1TDhDUKRzSad0aDZ1NkljYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFFWs1UT5I3VIplYVhkSys2NrxWO1gTbWpWMOZWdVV2UhdjU5QFVONkYTFmeV5ENOZkWVhHbVBHNZVTbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMSbiFFMJBHf8N1U4QjbLRGUCRTczpVNqdXQxMTYWRGeDFkSSJXV8xnaw9UVmdmbNxHfjJVNDZjRXZHcypXVkJFRHtEbGF2RsJmWWNTUltmYLBFV1B3NJFHUxg3bGRHSTZEOEVmM8xnW08mThBTa01UW2xEZxMHOZN3MkpGbhN1MvpVRyYGf8hTYadUeqlDOBpWTtJXQyZVTrgXNyZzZ2IjaJJjTFRlNVdkTwlGSt1GRPFzRrNGdLZVdG12dmNXMxMGR6JHf8lVT1kncVBlSyN3brpkbVlHOFRnahpGb4YXc6ZkaCl3K3gWTZpHMadzUxFXT3cUN6ljUvtyVFFGVwFFbx8UdHFWNUhWcr8Wd3cERZF2RJd2UklVbnVldFNGOutCWidVTutUMwcDbpZlS8xXaCRVMOZ2KVJWehZDVoR1UPNlcThlYV5ENOZkWYJlRWZXTZdDbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p>Above are the last 3 pictures posted by  <a href="https://www.instagram.com/visitleeds/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" 
-width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> 0°C, 
-<i>light snow</i></b></br>Today, the sun rises at <b>05:05</b> and sets at <b>18:35</b>.</p>
+width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> -1°C, 
+<i>light snow</i></b></br>Today, the sun rises at <b>05:02</b> and sets at <b>18:38</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
                                                                                             
@@ -47,12 +47,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/themagicalmammal/miner/pull/66) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
-2. 🎉 Merged PR [#65](https://github.com/themagicalmammal/miner/pull/65) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
-3. 🎉 Merged PR [#64](https://github.com/themagicalmammal/miner/pull/64) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
-4. 🎉 Merged PR [#63](https://github.com/themagicalmammal/miner/pull/63) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
-5. 🎉 Merged PR [#62](https://github.com/themagicalmammal/miner/pull/62) in [themagicalmammal/miner](https://github.com/themagicalmammal/miner)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -100,4 +94,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Monday, 4 April, 22:13 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Tuesday, 5 April, 02:02 BST
