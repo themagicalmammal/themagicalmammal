@@ -51,7 +51,7 @@ class PuppeteerService {
    */
   async getLatestInstagramPostsFromAccount(acc, n) {
     try {
-      const page = `https://dumpor.com/v/${acc}`;
+      const page = `https://www.pixwox.com/profile/${acc}`;
       await this.goToPage(page);
       let previousHeight;
 
