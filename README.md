@@ -7,12 +7,7 @@ I'm Dipan, currently doing my Master's in the University of Leeds in
 from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> <b>Leeds, England</b>. 
 I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13"/> <b>Indore, India</b>. 
 
-<h3><img src="https://i.imgur.com/HFHIBmx.png" width="18"/>   
-Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> Leeds</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by  <a href="https://www.instagram.com/visitleeds/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" 
-width="13"/> @visitleeds!</a><br/>Currently, the weather is: <b> 8°C, 
+<p>Currently, the weather is: <b> 7°C, 
 <i>clear sky</i></b></br>Today, the sun rises at <b>04:47</b> and sets at <b>18:49</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
@@ -47,12 +42,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/themagicalmammal/stock-analyser/pull/50) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-2. 🎉 Merged PR [#48](https://github.com/themagicalmammal/stock_analysis/pull/48) in [themagicalmammal/stock_analysis](https://github.com/themagicalmammal/stock_analysis)
-3. ❌ Closed PR [#11](https://github.com/themagicalmammal/themagicalmammal/pull/11) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-4. 🎉 Merged PR [#47](https://github.com/themagicalmammal/stock-analysis/pull/47) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
-5. 🎉 Merged PR [#45](https://github.com/themagicalmammal/stock-analysis/pull/45) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -100,4 +89,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Sunday, 10 April, 18:14 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Sunday, 10 April, 18:25 BST
