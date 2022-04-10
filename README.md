@@ -47,11 +47,11 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/themagicalmammal/wikibot/pull/217) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-2. ❌ Closed PR [#10](https://github.com/themagicalmammal/themagicalmammal/pull/10) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-3. 🎉 Merged PR [#216](https://github.com/themagicalmammal/wikibot/pull/216) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-4. 🎉 Merged PR [#215](https://github.com/themagicalmammal/wikibot/pull/215) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
-5. 🎉 Merged PR [#214](https://github.com/themagicalmammal/wikibot/pull/214) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
+1. ❗️ Closed issue [#152](https://github.com/themagicalmammal/wikibot/issues/152) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
+2. 🎉 Merged PR [#218](https://github.com/themagicalmammal/wikibot/pull/218) in [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot)
+3. 🎉 Merged PR [#42](https://github.com/themagicalmammal/stock-analysis/pull/42) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
+4. 🎉 Merged PR [#41](https://github.com/themagicalmammal/stock-analysis/pull/41) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
+5. 🎉 Merged PR [#40](https://github.com/themagicalmammal/stock-analysis/pull/40) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
 <!--END_SECTION:activity-->
   
 <details>
