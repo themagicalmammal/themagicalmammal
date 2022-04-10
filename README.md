@@ -47,6 +47,12 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#50](https://github.com/themagicalmammal/stock-analyser/pull/50) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
+2. 🎉 Merged PR [#48](https://github.com/themagicalmammal/stock_analysis/pull/48) in [themagicalmammal/stock_analysis](https://github.com/themagicalmammal/stock_analysis)
+3. ❌ Closed PR [#11](https://github.com/themagicalmammal/themagicalmammal/pull/11) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
+4. 🎉 Merged PR [#47](https://github.com/themagicalmammal/stock-analysis/pull/47) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
+5. 🎉 Merged PR [#45](https://github.com/themagicalmammal/stock-analysis/pull/45) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
+<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
