@@ -34,6 +34,7 @@ Where to find me</h3>
 <a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="40px" src="https://i.imgur.com/901ps8h.png" /></a>
 <a href="https://myanimelist.net/profile/themagicalmammal"> <img alt="MAL" width="40px" src="https://i.imgur.com/TnZcuA4.png" /></a>
 <a href="https://medium.com/@d19cyber"> <img alt="Medium" width="40px" src="https://i.imgur.com/HvRIk6L.png" /></a>
+<a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="40px" src="https://i.imgur.com/PNhxaKM.png" /></a>
 <br><br>
 
 <details>
@@ -42,12 +43,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/themagicalmammal/stock-analyser/pull/50) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-2. 🎉 Merged PR [#48](https://github.com/themagicalmammal/stock_analysis/pull/48) in [themagicalmammal/stock_analysis](https://github.com/themagicalmammal/stock_analysis)
-3. ❌ Closed PR [#11](https://github.com/themagicalmammal/themagicalmammal/pull/11) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-4. 🎉 Merged PR [#47](https://github.com/themagicalmammal/stock-analysis/pull/47) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
-5. 🎉 Merged PR [#45](https://github.com/themagicalmammal/stock-analysis/pull/45) in [themagicalmammal/stock-analysis](https://github.com/themagicalmammal/stock-analysis)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -95,4 +90,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Tuesday, 12 April, 22:13 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Tuesday, 12 April, 22:31 BST
