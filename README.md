@@ -7,8 +7,8 @@ I'm Dipan, currently doing my Master's in the University of Leeds in
 from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> <b>Leeds, England</b>. 
 I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13"/> <b>Indore, India</b>. 
 
-<p>Currently, the weather is: <b> 4°C, 
-<i>broken clouds</i></b></br>Today, the sun rises at <b>04:36</b> and sets at <b>18:59</b>.</p>
+<p>Currently, the weather is: <b> 5°C, 
+<i>mist</i></b></br>Today, the sun rises at <b>04:36</b> and sets at <b>18:59</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
                                                                                             
@@ -43,12 +43,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/themagicalmammal/themagicalmammal.github.io/pull/2) in [themagicalmammal/themagicalmammal.github.io](https://github.com/themagicalmammal/themagicalmammal.github.io)
-2. ❌ Closed PR [#1](https://github.com/themagicalmammal/themagicalmammal.github.io/pull/1) in [themagicalmammal/themagicalmammal.github.io](https://github.com/themagicalmammal/themagicalmammal.github.io)
-3. 🎉 Merged PR [#50](https://github.com/themagicalmammal/stock-analyser/pull/50) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-4. 🎉 Merged PR [#48](https://github.com/themagicalmammal/stock_analysis/pull/48) in [themagicalmammal/stock_analysis](https://github.com/themagicalmammal/stock_analysis)
-5. ❌ Closed PR [#11](https://github.com/themagicalmammal/themagicalmammal/pull/11) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -96,4 +90,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Thursday, 14 April, 07:19 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Thursday, 14 April, 10:15 BST
