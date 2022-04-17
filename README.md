@@ -43,12 +43,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/themagicalmammal/themagicalmammal.github.io/pull/2) in [themagicalmammal/themagicalmammal.github.io](https://github.com/themagicalmammal/themagicalmammal.github.io)
-2. ❌ Closed PR [#1](https://github.com/themagicalmammal/themagicalmammal.github.io/pull/1) in [themagicalmammal/themagicalmammal.github.io](https://github.com/themagicalmammal/themagicalmammal.github.io)
-3. 🎉 Merged PR [#50](https://github.com/themagicalmammal/stock-analyser/pull/50) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-4. 🎉 Merged PR [#48](https://github.com/themagicalmammal/stock_analysis/pull/48) in [themagicalmammal/stock_analysis](https://github.com/themagicalmammal/stock_analysis)
-5. ❌ Closed PR [#11](https://github.com/themagicalmammal/themagicalmammal/pull/11) in [themagicalmammal/themagicalmammal](https://github.com/themagicalmammal/themagicalmammal)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -96,4 +90,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Sunday, 17 April, 02:09 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Sunday, 17 April, 04:28 BST
