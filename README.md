@@ -43,6 +43,12 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#25](https://github.com/themagicalmammal/InterviewBit/pull/25) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
+2. 🎉 Merged PR [#24](https://github.com/themagicalmammal/InterviewBit/pull/24) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
+3. 🎉 Merged PR [#23](https://github.com/themagicalmammal/InterviewBit/pull/23) in [themagicalmammal/InterviewBit](https://github.com/themagicalmammal/InterviewBit)
+4. ❌ Closed PR [#2](https://github.com/themagicalmammal/themagicalmammal.github.io/pull/2) in [themagicalmammal/themagicalmammal.github.io](https://github.com/themagicalmammal/themagicalmammal.github.io)
+5. ❌ Closed PR [#1](https://github.com/themagicalmammal/themagicalmammal.github.io/pull/1) in [themagicalmammal/themagicalmammal.github.io](https://github.com/themagicalmammal/themagicalmammal.github.io)
+<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
