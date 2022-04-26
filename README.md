@@ -7,7 +7,7 @@ I'm Dipan, currently doing my Master's in the University of Leeds in
 from <img src="https://i.imgur.com/DPngeUJ.png" width="13"/> <b>Leeds, England</b>. 
 I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13"/> <b>Indore, India</b>. 
 
-<p>Currently, the weather is: <b> 8°C, 
+<p>Currently, the weather is: <b> 10°C, 
 <i>clear sky</i></b></br>Today, the sun rises at <b>04:02</b> and sets at <b>19:28</b>.</p>
 
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18"/>   Spotify Playing</h3>
@@ -43,12 +43,6 @@ Where to find me</h3>
 GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/themagicalmammal/stock-analyser/pull/58) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-2. 🎉 Merged PR [#57](https://github.com/themagicalmammal/stock-analyser/pull/57) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-3. ❌ Closed PR [#59](https://github.com/themagicalmammal/stock-analyser/pull/59) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-4. 🎉 Merged PR [#55](https://github.com/themagicalmammal/stock-analyser/pull/55) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-5. 🎉 Merged PR [#54](https://github.com/themagicalmammal/stock-analyser/pull/54) in [themagicalmammal/stock-analyser](https://github.com/themagicalmammal/stock-analyser)
-<!--END_SECTION:activity-->
   
 <details>
 <summary> &#9655;</summary>
@@ -96,4 +90,4 @@ Visitor</h3>
 </details>
 </details>
 
-<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Tuesday, 26 April, 10:16 BST
+<img src="https://i.imgur.com/JgaEjcz.png" width="13"/> <b>Last refresh:</b> Tuesday, 26 April, 13:30 BST
