@@ -67,4 +67,4 @@
     </details>
 </details>
 <br />
-<img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 27 April, 00:23 BST
+<p> <img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 27 April, 00:26 BST</p>
