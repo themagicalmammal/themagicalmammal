@@ -6,7 +6,7 @@
     from <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>Leeds, England</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Indore, India</b>.
 </p>
 <p>
-    Currently, the weather is: <b> 0°C, <i>scattered clouds</i></b><br />
+    Currently, the weather is: <b> 0°C, <i>broken clouds</i></b><br />
     Today, the sun rises at <b>03:54</b> and sets at <b>19:35</b>.
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
@@ -67,4 +67,4 @@
     </details>
 </details>
 <br />
-<p> <img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Friday, 29 April, 02:15 BST</p>
+<p> <img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Friday, 29 April, 04:49 BST</p>
