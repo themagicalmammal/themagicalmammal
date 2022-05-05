@@ -7,7 +7,7 @@
 </p>
 <p>
     Currently, the weather is: <b> 8°C, <i>overcast clouds</i></b><br />
-    Today, the sun rises at <b>03:41</b> and sets at <b>19:47</b>.
+    Today, the sun rises at <b>03:39</b> and sets at <b>19:49</b>.
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-pw0mefqpu-spotifydipan.vercel.app/api/spotify" alt="Spotify" /></a>
@@ -67,4 +67,4 @@
     </details>
 </details>
 <br />
-<p> <img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 4 May, 22:14 BST</p>
+<p> <img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Thursday, 5 May, 02:16 BST</p>
