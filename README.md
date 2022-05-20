@@ -6,8 +6,8 @@
     from <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>Leeds, England</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Indore, India</b>.
 </p>
 <p>
-    Currently, the weather is: <b> 11°C, <i>light rain</i></b><br />
-    Today, the sun rises at <b>03:06</b> and sets at <b>20:22</b>.
+    Currently, the weather is: <b> 10°C, <i>light rain</i></b><br />
+    Today, the sun rises at <b>03:04</b> and sets at <b>20:24</b>.
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-pw0mefqpu-spotifydipan.vercel.app/api/spotify" alt="Spotify" /></a>
@@ -67,4 +67,4 @@
     </details>
 </details>
 <br />
-<p> <img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Thursday, 19 May, 22:14 BST</p>
+<p> <img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Friday, 20 May, 02:18 BST</p>
