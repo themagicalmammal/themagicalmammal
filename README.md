@@ -42,6 +42,10 @@
 				<li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/sourajitk">Sourajit Karmakar</a></li>
 				<li><img src="https://cdn-icons-png.flaticon.com/128/197/197564.png" width="13" /> <a href="https://github.com/thmsgbrt">Thomas Guibert</a></li>
 				<li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/Prince-Shivaram">Siv Ram Shastri Jonnalagadda</a></li>
+				<li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/anuraghazra">Anurag Hazra</a></li>
+				<li><img src="https://cdn-icons-png.flaticon.com/128/197/197559.png" width="13" /> <a href="https://github.com/owl4ce">Harry</a></li>
+				<li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/ryanlanciaux">Ryan Lanciaux</a></li>
+			</ol>
 			<details>
 				<summary> &#9655;</summary>
 				<h3><img src="https://i.imgur.com/XJ0hI8P.png" width="18" /> Visitor</h3> <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
@@ -50,4 +54,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Sunday, 12 June, 19:11 BST</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Sunday, 12 June, 19:30 BST</p>
