@@ -1,11 +1,13 @@
 <p><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
 <p>
-	<codersrank-skills-chart username="themagicalmammal"></codersrank-skills-chart> Hey, I am Dipan, undertaking my Master&#39;s from the University of Leeds in <a href="https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc">Data Science and Analytics</a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>Leeds, England</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Indore, India</b>. </p>
+	<codersrank-skills-chart username="themagicalmammal"></codersrank-skills-chart> Hey, I am Dipan, a postgraduate from the University of Leeds in 
+	<a href="https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc">Data Science and Analytics</a> in 
+	<img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>Leeds, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="18" /> Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> Leeds</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TPnJkaJVkM5pWZLVzK3RzSyYlM4VjcUFGMLNHN4pkVnpWYKRlbCZVTQxHfDJWOIVkVzFGS1JnYlxGTYNjb6hDWJdDdOhWZNp2V3VmWzM1K0gnYIx2SadVaXVHMYZFUzg3QDF2cSJFM5ITUHVlQORVQBJDf8N3NwwHfu1EehZERlZjbrkDN0E0aqxWbqZFai92dHxHfjlVUzZTM3p1bEJGf8R0UzQVM8xXerhVS1NEU6hEeGZUZrlUMWZHWulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBVN4wWM4tkMjdUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTSpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3T0lVT5UXYIlFWRhFTx8GTsdWN1kjaaREMnNUWWRmNhZzVsp3UCdkcTZmeF50NOZkWXVjRVFHMvRzZ1onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL90zZCpWSFJTeqV2S1syd0skMWJDe1I3UmtGZ0F0dKZ1ZqFmSU5GaZlDT5IEf8tmRXVkShl0NUF3Uo5WUrUnZQVmdDZnRiB1culXQ5EmZycDNGdTb4gWMXZzbtFTZ8xndqZ3aEF2cSJFM5ITUHVlQORVQBJDf8N3NwwHfu1EehZERlZjbrkDN0E0aqxWbqZFai9WQLV2Z2kVO2Ezdal0URh2MTNjUo5kc3YnSsNEU6hEeGZUZrlUMWZHWulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBVN4wWM4tkMjdUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTSpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3TrlFO5U3UIJWWRh0S5BjYu9mS1kDbORFMqNUWWJ1ULZjV5QEVKFmYTVmew8ENOZkWUBnVX92cJdjb5onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SP9cmQqlURyknaltUNrcHNLJjVygXNM9EZ440d0gnSWdmahpEVuh2YP12SVZzcXVlV0lUT1A1TPlHUn5GR2hTVMFHUF5GRzZHdzNnZtJmNsVEVUlncWhla2cUVYJmd6BHbEF2cSJFM5ITUHVlQORVQBJDf8N3NwwHfu1EehZERlZjbrkDN0E0aqxWbqZFai9WUKdFOJVUdtp3dal0QU9kYSx2UChjePpnN0NEU6hEeGZUZrlUMW9GVulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBVN4wWM4tkMjdUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTTpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3Txl1Y4M3RzolYwg1S59GTrlmQKljdSpWMrN0bVVWd2UjVxQFVKt0NUZGSV90KOZkWYZVMV92aJVzb5onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p> Above are the last 3 pictures posted by
 	<a href="https://www.instagram.com/visitleeds/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @visitleeds!</a>
-	<br /> Currently, the weather is: <b> 8°C, <i>overcast clouds</i></b>
+	<br /> Currently, the weather is: <b> 14°C, <i>few clouds</i></b>
 	<br /> Today, the sun rises at <b>06:12</b> and sets at <b>16:56</b>. </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-pw0mefqpu-spotifydipan.vercel.app/api/spotify" alt="Spotify" /></a>
@@ -54,4 +56,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 10 October, 02:10 BST</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 10 October, 13:14 BST</p>
