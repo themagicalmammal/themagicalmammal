@@ -7,8 +7,8 @@
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p> Above are the last 3 pictures posted by
 	<a href="https://www.instagram.com/visitleeds/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @visitleeds!</a>
-	<br /> Currently, the weather is: <b> 3°C, <i>fog</i></b>
-	<br /> Today, the sun rises at <b>06:36</b> and sets at <b>14:27</b>. </p>
+	<br /> Currently, the weather is: <b> 4°C, <i>fog</i></b>
+	<br /> Today, the sun rises at <b>06:38</b> and sets at <b>14:25</b>. </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-pw0mefqpu-spotifydipan.vercel.app/api/spotify" alt="Spotify" /></a>
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3> <img src="https://github-readme-stats-bay-ten-48.vercel.app/api?username=themagicalmammal&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" alt="Dipan&#39;s GitHub stats" />
@@ -56,4 +56,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Sunday, 13 November, 00:56 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 14 November, 00:54 GMT</p>
