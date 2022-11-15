@@ -4,11 +4,11 @@
 	<a href="https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc">Data Science and Analytics</a> in 
 	<img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>Leeds, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="18" /> Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> Leeds</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SP9cmQqlURyknaltUNrcHNLJjVygXNMRVW0kzdPhjSWdmahpEVuh2YQVHOBd1YEVkV4okQoRVWTxESIhnZEBlU180cLdla3YDVj9UYUlmW4omcrJDMWZ0K1claiVlbTdWZLp1cSJFM5ITUHVlQORVQBJDf8N3NwwHfu1EehZERlZjbrkDN0E0aqxWbqZFai9WUHN0cxhUWpp3daVkMatGU6BjUrR2cNNzbrNEU6hEeGZUZrlUMWJHWulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBlS4wGc4xkd4cUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTSpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3TzVVT442QYJ2VjNDT5Rjcr1mSKlTdkpGMxNUWWJ2VxdjVspHVLF2NTpFVF90KwZkWXhmVWV3dJRja1onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TPnJkaJVkM5pWZLVzK3RzSyYlM4VjcQRWT0hnQ4okVnpWYKRlbollY3wHfFlUSGdVNOpkU2hUZmlFRn5GNmljYKR0TDd2KJhzMaNHZR1GN4dnbHp3NCt2arRkbmtkaTd3YLp1cSJFM5ITUHVlQORVQBJDf8N3NwwHfu1EehZERlZjbrkDN0E0aqxWbqZFai92ZLBXTJNGcpp3daRjeWxWbDJXUJhTcWZDN1NEU6hEeGZUZrlUMWJHWulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBlS4wGc4xkd4cUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTSpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3TvNHO5QXZIl1V3hkSxQjYs9WNaljdKpHMsNENWNWchZDWxoHVJtkYTZmeFBFOOZkWWRnVW92bJdTa1onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TPnJkaJVkM5pWZLVzK3RzSyYlM4VzNTJHcLhnQ4okVnpWYKRlbolFeyZWTvV0MExGZKJVeExUWxwUe4Z2MvdVT1BFS1QlNrhWTMNlVhtSOqNzQ5pHdFRzNqBTZpRkevZ2SaNnUSBTOyE1RVJkTUFUQywHfzdDM8xnbNhXYGRUZ242K5QDNBtmas1maWhmYvd3Sqp0bkVVb6dnWRFVVrkHasp3djFHMzQHdDBleIhnRGV2aJFjVxhlb5pXd2ZzRnZWaDdWSBpmU2EnNBNnT6JmdXVEdEB3YQpEOsBHeMZHOHlTRBRlSq10b2gnasp2TrYXOvRTY5dTMwhEM2pFNERzQttkUi50U6FzbH1kMBVTdy92S4E2N4JGf8hURvVWUmlEVNlla69kdBhDOx9EWilVWYxEe3J3aspkW40mR6BDbDlkVkdVc1QGeqNFTyw0UhpXRPxHfkZkWShmRXF3aZdDa1onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p> Above are the last 3 pictures posted by
 	<a href="https://www.instagram.com/visitleeds/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @visitleeds!</a>
-	<br /> Currently, the weather is: <b> 4°C, <i>fog</i></b>
-	<br /> Today, the sun rises at <b>06:38</b> and sets at <b>14:25</b>. </p>
+	<br /> Currently, the weather is: <b> 6°C, <i>overcast clouds</i></b>
+	<br /> Today, the sun rises at <b>06:41</b> and sets at <b>14:23</b>. </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-pw0mefqpu-spotifydipan.vercel.app/api/spotify" alt="Spotify" /></a>
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3> <img src="https://github-readme-stats-bay-ten-48.vercel.app/api?username=themagicalmammal&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" alt="Dipan&#39;s GitHub stats" />
@@ -56,4 +56,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 14 November, 00:54 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Tuesday, 15 November, 00:56 GMT</p>
