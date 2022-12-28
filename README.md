@@ -2,12 +2,12 @@
 <p>
 	<codersrank-skills-chart username="themagicalmammal"></codersrank-skills-chart> Hey, I am Dipan, a postgraduate from the University of Leeds in 
 	<a href="https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc">Data Science and Analytics</a> in 
-	<img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>Leeds, England</b>. 
-<h3><img src="https://i.imgur.com/HFHIBmx.png" width="18" /> Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> Leeds</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL9EEcYFGRUh2UndUQ0I0d0MzN3M1NYxGcUJDW5YHdxN1U0kVbmtmdBdTd2pkNydlUUhldWd3drZVZSRzTJFnWid0MB52NT9kWQtEZNFjYKhTZrxHfQxGSKljRMVFbzQ2V8xndHBjVk9kb5FTdwFzNrZEOyQzRYVUQTJmMIl0ahtWZpVHekJkTTFWMqdGN0NDe4V3UthUaUJlbERza8xnVBN1M5k2dXZWUqNkMBl1TrtiaJR3ZhhUU1hjaKtydtVEShNFbS5mN8xXQr1EeD1kYSFDZ2YTMC1kTrEWYFlFaHZnZU5EctJVVKp3dygTZ1k2S0sWO8xHdUNzZKJjSwRjRNhGbvZzUi9kW1UEND12RKdDZ5IGVwFFbx8UdHFWNUhWcr8Wd3cERZF2RJd2UklVbBZFdZNHOuZjbahVQuxEe0IGbnJkW8xHaKpWMOp3TYVWb2YDVsp2UJFGTTR2MVBFf8FDVEZFaxYlc3lVNphneZJVdTFEbWd3S3JVe0o2Qw1GMBpkdRZDSMNHaC1kaKlXM3U2NRNFdmt0T5EVQrdHUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SNVZFOLVnay40TzsyMDVDeUt0YCdlR3glZMh2ba10VXBDeo1mRQdzUwYTU8xnMxVEf8NGch1USwR2aSJ0KLpXY2QUT6FVZi9UOQFGarZGMwVjRQVmNWhFWBtCTyZWQ6dUOJJlcxljMOFXZrcFf8xWZlpmbRJURzYHSVN1cMFFdxNFOrxHfVNUaLZkaVRUTtNURllVNLhzSsZFehh0NYVTcycWW0V1Y412Upd2ZX1URFRzYLVGaMpXcwh2RZBHRpVXQB90bItSN2JlNYdkNxcVZz10QFJzTTFDf8tUY1hlR5omRFx0Q2IkN0pXOzpkayZmVYVTavx2NOJHW4EkZ4ZVavNUN5dEaCRmd5YnQxIFSiNTMKhjeLZ1STVnNZBnQKpXOUlkcOJmMD9GS4o2Yw5md1g1Z38Gb8xHTIBVN2R0U3dlTwd0RWJXTNlzchhVWYFlbMNzcitmaGpEOqpFR2hWZrUVY2YzNklDVSB1SiFlZUV1T1EDVDFFaxYVdwkVNphneZJVdTFEbWd3S3JVe0o2Qw1GMBpkdRZDSMNHaC1kaKlXM3U2NRNFamt0T5EVQrdHUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0DNzdXcOdGcXRUbopFVXpnbHZzKiNjNH5WSNhFcldVMYFkeDNTUSZTM2pkYzlna0cVaVhDNwN2TI5UOshGc0xkYPtCZLZ3aIZkb1xUMNl2V34UNIhkc3QVcul2NLx0bkJ2S0d0ZXhzK1VEUOt2Nmx2TLd0dSZ1Z8xXSHV1U2Rle4tyVj9mQWp2KthWbXJUOXFVVyB3axoVTrEzaiVkdyokbz4Uc1F0dnZDNywmaohTVJVEOPV0MEpGczFlekhFR5lGOnZTaFhVS5I1UEZEOodlTy1kMGJjZuFDOyIGf8FENNp2QwdjUsp1SwdWMOBVNut0UDVVUxVFTPVzdshWY450V0ETMHNmb4VTd4JDerRTZmNHb0EmeshWYGd3QkRHdkpnbMplYO10U6JHSjp2YupnZro0clxHfvV3NHRUWhdUSnNFZZ12dVBXVNhjchhVWjVFWKp3byxGcKVTO2Jlex4kclhVYrEnNYplaUFUe3MlYzUlT3EjeEpFbWd1bJlUNphneZJVdTFEbWd3S3JVe0o2Qw1GMBpkdRZDSMNHaC1kaKlXM3U2NRNFdmt0T5EVQrdHUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
+	<img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
+<h3><img src="https://i.imgur.com/HFHIBmx.png" width="18" /> Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> London</h3>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p> Above are the last 3 pictures posted by
-	<a href="https://www.instagram.com/visitleeds/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @visitleeds!</a>
-	<br /> Currently, the weather is: <b> -1°C, <i>clear sky</i></b>
+	<a href="https://www.instagram.com/london.the.city/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london.the.city!</a>
+	<br /> Currently, the weather is: <b> -2°C, <i>broken clouds</i></b>
 	<br /> Today, the sun rises at <b>07:45</b> and sets at <b>13:52</b>. </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-pw0mefqpu-spotifydipan.vercel.app/api/spotify" alt="Spotify" /></a>
@@ -16,6 +16,7 @@
 <a href="https://github.com/themagicalmammal/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
 <a href="https://uk.linkedin.com/in/themagicalmammal/"> <img alt="Linkedin" width="40px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
 <a href="https://www.reddit.com/user/themagicalmammal/"> <img alt="Reddit" width="40px" src="https://i.imgur.com/E8vTLyb.png" /></a>
+<a href="https://www.kaggle.com/themagicalmammal"> <img alt="Reddit" width="40px" src="https://i.imgur.com/6XAnA1Y.png" /></a>
 <a href="https://telegram.im/@themagicalmammal"> <img alt="Telegram" width="40px" src="https://i.imgur.com/8uCq4fi.png" /> </a>
 <a href="https://dsc.bio/themagicalmammal"> <img alt="Discord" width="40px" src="https://i.imgur.com/allk32s.png" /></a>
 <a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/"> <img alt="XDA" width="40px" src="https://i.imgur.com/ZkDQREa.png" /></a>
@@ -56,4 +57,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 28 December, 00:44 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 28 December, 15:01 GMT</p>
