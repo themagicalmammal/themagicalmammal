@@ -1,12 +1,11 @@
 <p><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
 <p>
-	<codersrank-skills-chart username="themagicalmammal"></codersrank-skills-chart> Hey, I am Dipan, a postgraduate from the University of Leeds in 
-	<a href="https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc">Data Science and Analytics</a> in 
+	<codersrank-skills-chart username="themagicalmammal"></codersrank-skills-chart> Hey, I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> ETL Systems </a> in 
 	<img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="18" /> Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> London</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p> Above are the last 3 pictures posted by
-	<a href="https://www.instagram.com/london.the.city/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london.the.city!</a>
+	<a href="https://www.instagram.com/london4visit/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london4visit!</a>
 	<br /> Currently, the weather is: <b> -2°C, <i>broken clouds</i></b>
 	<br /> Today, the sun rises at <b>07:45</b> and sets at <b>13:52</b>. </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
@@ -57,4 +56,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 28 December, 15:01 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 28 December, 15:10 GMT</p>
