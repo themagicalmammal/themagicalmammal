@@ -37,7 +37,7 @@
 	<br />
 	<details>
 		<summary> &#9655;</summary>
-		<h3><img src="https://i.imgur.com/xGG5c7N.png" width="18" /> QR Code</h3> <img alt="QRCode" width="200px" src="https://i.imgur.com/DSHPHdq.png" />
+		<h3><img src="https://i.imgur.com/xGG5c7N.png" width="18" /> QR Code</h3> <img alt="QRCode" width="200px" src="https://i.imgur.com/FS60AP0.png" />
 		<details>
 			<summary> &#9655;</summary>
 			<h3><img src="https://i.imgur.com/1mimHIo.png" width="18" /> Credits</h3>
@@ -57,4 +57,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 28 December, 16:41 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Wednesday, 28 December, 16:45 GMT</p>
