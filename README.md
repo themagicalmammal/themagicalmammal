@@ -9,7 +9,7 @@
 	<br /> Currently, the weather is: <b> -4°C, <i>overcast clouds</i></b>
 	<br /> Today, the sun rises at <b>07:44</b> and sets at <b>13:57</b>. </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
-<a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-cetjeamzm-dipanspotify.vercel.app/api/now-playing.svg" width="495" alt="Spotify" /></a>
+<a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-bdvsvrieg-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3> <img src="https://github-readme-stats.vercel.app/api?username=themagicalmammal&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" alt="Dipan&#39;s GitHub stats" />
 <h3><img src="https://i.imgur.com/yQHTmCW.png" width="18" /> Where to find me</h3>
 <a href="https://github.com/themagicalmammal/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
@@ -57,4 +57,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Sunday, 1 January, 18:42 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Sunday, 1 January, 18:52 GMT</p>
