@@ -32,7 +32,7 @@
 <br />
 <details>
 	<summary> &#9655;</summary>
-	<h3><img src="https://i.imgur.com/x8tsLuE.png" width="18" /> Trophies</h3> <img src="https://github-profile-trophy.vercel.app/?username=themagicalmammal&amp;theme=juicyfresh&amp;row=1&amp;column=5" alt="trophy" />
+	<h3><img src="https://i.imgur.com/x8tsLuE.png" width="18" /> Trophies</h3> <img src="https://github-profile-trophy.vercel.app/?username=themagicalmammal&amp;theme=buddhism&amp;row=1&amp;column=5" alt="trophy" />
 	<br />
 	<br />
 	<details>
@@ -57,4 +57,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Sunday, 1 January, 18:59 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Sunday, 1 January, 19:05 GMT</p>
