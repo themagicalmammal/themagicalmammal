@@ -34,7 +34,6 @@
 	<a href="https://www.sololearn.com/profile/4562055"> <img alt="Sololearn" width="40px" src="https://i.imgur.com/6mnh2V5.png" /></a>
 	<a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="40px" src="https://i.imgur.com/901ps8h.png" /></a>
 	<br />
-	<br />
 	<details>
 		<summary> &#9655;</summary>
 		<h3><img src="https://i.imgur.com/x8tsLuE.png" width="18" /> Trophies</h3> <img src="https://github-profile-trophy.vercel.app/?username=themagicalmammal&amp;theme=onestar&amp;row=1&amp;column=5" alt="trophy" />
@@ -43,6 +42,7 @@
 		<details>
 			<summary> &#9655;</summary>
 			<h3><img src="https://i.imgur.com/xGG5c7N.png" width="18" /> QR Code</h3> <img alt="QRCode" width="200px" src="https://i.imgur.com/FS60AP0.png" />
+			<br />
 			<details>
 				<summary> &#9655;</summary>
 				<h3><img src="https://i.imgur.com/1mimHIo.png" width="18" /> Credits</h3>
@@ -54,7 +54,6 @@
 					<li><img src="https://cdn-icons-png.flaticon.com/128/197/197559.png" width="13" /> <a href="https://github.com/owl4ce">Harry</a></li>
 					<li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/ryanlanciaux">Ryan Lanciaux</a></li>
 				</ol>
-				<br />
 				<details>
 					<summary> &#9655;</summary>
 					<h3><img src="https://i.imgur.com/XJ0hI8P.png" width="18" /> Visitor</h3> <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
@@ -63,4 +62,4 @@
 		</details>
 	</details>
 </details>
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 2 January, 05:57 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 2 January, 06:00 GMT</p>
