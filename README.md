@@ -6,7 +6,7 @@
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p> Above are the last 3 pictures posted by
 	<a href="https://www.instagram.com/london4visit/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london4visit</a>
-	<br /> Currently, the weather is: <b> -4°C, <i>broken clouds</i></b>
+	<br /> Currently, the weather is: <b> 2°C, <i>light rain</i></b>
 	<br /> Today, the sun rises at <b>07:43</b> and sets at <b>13:59</b>. </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
@@ -57,4 +57,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 2 January, 00:44 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 2 January, 05:31 GMT</p>
