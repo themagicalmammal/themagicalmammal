@@ -52,6 +52,7 @@
 					<li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/anuraghazra">Anurag Hazra</a></li>
 					<li><img src="https://cdn-icons-png.flaticon.com/128/197/197559.png" width="13" /> <a href="https://github.com/owl4ce">Harry</a></li>
 					<li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/ryanlanciaux">Ryan Lanciaux</a></li>
+					<li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/ashleymavericks">Anurag Singh</a></li>
 				</ol>
 				<details>
 					<summary> &#9655;</summary>
@@ -60,7 +61,7 @@
 					<br /> 
 					<details>
 						<summary> &#9655;</summary>
-						<h3><img src="https://i.imgur.com/vBxtlNd.png" width="16" /> 𝗘𝗻𝗱 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 </h3> 
+						<h3><img src="https://i.imgur.com/E9Droaq.png" width="15" /> 𝗘𝗻𝗱 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 </h3> 
 						<div>
 						    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 						    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -95,5 +96,5 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Monday, 2 January, 11:23 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Monday, 2 January, 11:29 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
