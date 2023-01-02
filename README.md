@@ -1,13 +1,13 @@
 <p><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
 <p>
-	<codersrank-skills-chart username="themagicalmammal"></codersrank-skills-chart> Hey, I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
+	I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
 	<img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="18" /> Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> London</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5iWw0WQzYEepB3UiZWdtpHO3c0VrJHchRlc14EdLRDcXpXc2pFdIxWYaRlZMZmSHREOaBFT0MDTadVbzc3Kz8UU3NEOMZFR0E3Kw90UrFXW3NkMTx2RvJzKXF3MldkZRt2Y1t0drsGMytGcpN0SGRVRWBVcztSOOtST4FnRsl2SyE3bJtWUztWd8x3Qxg3SwJDSyIkSlZ2QrlXZ3hGZBZGevFXUl5WWhRWdYtCRLljQHJ1coRVUwp2MqZnePFzRrNGdLBnYTBTOPFXM4RmT4R0KUVUTEBXZ340N1IVUkFDOXhDSrl2SwEkW1EnawsWYiJnNmlkS4tkUPNEOQpENLp1RrNkVMRWOiRFcRxWMPV3RhVDVoF3KvV3NHRUWhdUSnNFZZ1WQVR3czhzcLhlYjVFWLBzYit2bkpEOuhnaw4karYlZtF2NRljaUFUeyRlWYV1TrEjaDJFeWdVdNlFNnhneZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3ZUdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmLaBTbBNjR4lGcTJmZ11me4czRXtGdoFHVzVjT0tENwdlexZnW5MzRSB1NPtUMrBzYllTcPVDRx5kUQhUb4ZTWm5EVlRGS6pUaX1EdldTZLtGNYFDeiBXVrYWZFNGZHF1ajV3S3tyawI3awl2QLZEVFZFUxN3K540KNhXcGxWaLJTcvl0aRN3a1xHfDFDeJBzRC50dxNkZDBjcjdGSMhlZTBTRrdjeVFGZ1h1KEtUOCdkUzxGVRBnazomd69UMHt2Y0tEciNFM58UcxgHZOhHRrQVRNREcldjT3UjURRWM4cFOItWaLBTQaVTcqBzahJmc2YWSKh3SS90Q4AlS0skWHt2QWxEZ5IGVwFFbx8UdHFWNUhWcr8Wd3cERZF2RJd2UklVbBZVdJhDf892RIlVWVhFT58mYrhmQaxHfrRGVw40MrUFZ5F3NYpFVUF0S3QVWYVlT1EDRDJFexYVdzl0NuFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3ZUdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SP9EEMT1kaBpnUVd2dudjWDd1Z8x3SphmajdXYUp1ahhHUVBXQ180NKhnZ3FmZU9kSFl0MiZkRZBFaUp1VOBFRzkzN5Q1TylTRnJTSqFzd0FWOhJ2NYNjMshUSutGNqh0T1hVa0N0UNdne3JUc0tmaFFFdqRVVQZTOahjTr0UO20EUX5kavRjNrNHd4N3KPJUM5E0aPJTQ8xnZHF2VyYVRqh1ZYlXMSdGd0NWavNXUrEkR3ZkVQZDeEFFbIpWb0RkT2w0ZQpnQnJmU1c3Sw1Gb400amVXVEFlaypFU1gDboJUTsdmM2VmTUlEbvlUNtpmVzQVchNja4oVO6lEUBBDTaF3Q0cUbEJFf8dFWDpHOxZ0RMBTYPZXV5czbsxHfMhEU1YHRTd3VOB3QtZ1cZhDf8ZXZIpVWR52S5MnYsxmQKxHfuFDR21WarYlWyYjNURGRS5UeMNFZ6BzTrEjeDJFbWZVdJlENuFjeZJVdTFEbWd3S3JVe0o2Qw1GMBpFch9ESMZXMSlUbWNlawVGTUNFM2o1U4d2V3ZUdyYEOmp2S4RWWTNzUhNmQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p> Above are the last 3 pictures posted by
 	<a href="https://www.instagram.com/london4visit/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london4visit</a>
-	<br /> Currently, the weather is: <b> -4°C, <i>overcast clouds</i></b>
-	<br /> Today, the sun rises at <b>07:44</b> and sets at <b>13:57</b>. </p>
+	<br /> Currently, the weather is: <b> -4°C, <i>broken clouds</i></b>
+	<br /> Today, the sun rises at <b>07:43</b> and sets at <b>13:59</b>. </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="18" /> Spotify Playing</h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3> <img src="https://github-readme-stats.vercel.app/api?username=themagicalmammal&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" alt="Dipan&#39;s GitHub stats" />
@@ -57,4 +57,4 @@
 	</details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Sunday, 1 January, 19:07 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Monday, 2 January, 00:44 GMT</p>
