@@ -6,8 +6,8 @@
 <p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SP9cmQqlURyknaltUNrcHNLJjVygXNi9kWrFGdP92TWdmahpEVuJkVFdjdWdXQwMFMoplSMdjYVlnetNTNqlFW4ZDZB92SitGR4YGZutCc2wHfipWOiJEb1s2QYpFZ2MEcltkWzJlUwkjMRdUVC5EVBFkM8x3c3ADf85WT4FmREVmNutSO0QTQrpGbtpmVoJ2b3NEcB9WUqlme3pVW6pVO3cUa3M3Ys5ka0M3QQpHS4ZkRltWSxYFdY5We6Vnd2c0Zml2QnlUQqJlNxZTQz5keiZ3VFRHRwNGU1gDbxg3SyM2R5UUQUpkaN9mN4pGbq90K2lzb0EWe3EDcIBjdaRDR0MUbLJlYONlex82RNJTQ1UncvtEOhdDeixHfIV0blFlZJRVTZpmeP9WS4wHfxdFWZhVWYx0d4wkbrVjS5kmUqJjaDRTViFXc2gFdER1S5JWUZBVRQxHfaZkWShnRVpGNJdDb5onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL90zZCpWSFJTeqV2S1syd0skMWJDe1cDUYBjT0F0bPZ1ZqFmSU5Gaj1EV4YUd0knW0VTSN90QZF2UYdHNshlTZpXdmZmb8xXWyFHOhdFc2Y3KMxHfy02SvhVePtEWTZ1VRBnWLp1cSJFM5ITUHVlQORVQBJDf8N3NwwHfu1EehZERlZjbrkDN0E0aqxWbqZFai9WQml0YhR2app3daVlMl1mc452VRhTbq5mSnNEU6hEeGZUZrlUMWNHWulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBlS4wWM4tkMjdUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTTpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3TzV0c542RulVYJhFTwklYrtGZ1gjdkRFMnN0bWZWa2cTV4RlUKl3NUpFTFBleGZkWUhnRVRHNJVzbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SPjpmVnNGayMnMPNGMXhneyMkR2kURxNVc0Rne3QnWVJHR8xHThZzRk5md2xUd35GVhFFNHVEV2YmWQNje6dTSjpXZl5EM6NGd2dnZmF2RZxmRIBzNZh2R0wHf8xnVYFmdnR3NXdjcrE1aromTXd0U0l3RLtUczdzZMtST4FmRBtkSyQHM5cWZjpmNyckRollWVxkQR9EZ8xnbsJDf8NmUXNnbRpmR3JmazwkN1MWaEdkQxcFZWN3URBHVuhnN38kN2EVTopXR2VVe5YjN2A3YNlHT2VETRRkcVlHN3gjWw0EdwckdIhnaOJTV0wHfygVVpFmYyZjZJpEeLJ1TDhDUKRzSad0aDZFTkljYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtdWV110c44WYIpVZJhET6lFTrdmT1gTdSpnMOZ3KVJWexdjUoRkUBdkYRVmZV5UOaZkWRhnVWZHNZdzaopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p> Above are the last 3 pictures posted by
    <a href="https://www.instagram.com/london4visit/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london4visit</a>
-   <br /> Currently, the weather is: <b> -1°C, <i>broken clouds</i></b>
-   <br /> Today, the sun rises at <b>07:43</b> and sets at <b>14:00</b>. 
+   <br /> Currently, the weather is: <b> -6°C, <i>clear sky</i></b>
+   <br /> Today, the sun rises at <b>07:42</b> and sets at <b>14:01</b>. 
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="15" /> 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 </h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
@@ -106,5 +106,5 @@
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Tuesday, 3 January, 07:31 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Wednesday, 4 January, 00:45 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
