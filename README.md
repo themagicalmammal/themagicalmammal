@@ -32,11 +32,8 @@
 <a href="https://medium.com/@d19cyber"> <img alt="Medium" width="40px" src="https://i.imgur.com/HvRIk6L.png" /></a>
 <a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="40px" src="https://i.imgur.com/PNhxaKM.png" /></a>
 
-<h3><img src="https://i.imgur.com/yQHTmCW.png" width="15" /> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 </h3>
-<img src="https://github-widgetbox-lki0s5r2o-dipanspotify.vercel.app/api/skills?languages=js,php,python,html,css,cpp,kotlin,bash,r,json,yaml,mysql,powershell,markdown"/>
-<img src="https://github-widgetbox-lki0s5r2o-dipanspotify.vercel.app/api/skills?frameworks=django,bootstrap,angular,ruby,jquery"/>
-<img src="https://github-widgetbox-lki0s5r2o-dipanspotify.vercel.app/api/skills?tools=git,docker,npm,webpack,firebase,wordpress,vercel,nodejs,heroku,apache,nginx,aws,jupyter,prettier"/>
-<img src="https://github-widgetbox-lki0s5r2o-dipanspotify.vercel.app/api/skills?software=linux,windows,vscode"/>
+<h3><img src="https://cdn-icons-png.flaticon.com/512/4257/4257487.png" width="15" /> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 </h3>
+<img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,php,pytorch,latex,linkedin,linux,powershell,md,matlab,octave,jquery,rails,bash,github,git,githubactions,stackoverflow,vim,visualstudio,d3,flask,angular,atom,emacs,cpp,heroku,firebase,sqlite,mysql,aws,gcp,cassandra,docker,bootstrap,codepen,webpack,wordpress,nodejs,tensorflow,androidstudio" />
 
 <br />
 <details>
@@ -114,5 +111,5 @@
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Thursday, 5 January, 10:07 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Thursday, 5 January, 10:26 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
