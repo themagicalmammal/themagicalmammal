@@ -6,7 +6,7 @@
 <p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL1UlV4sUdqJjTPNzKzMUN4R1SjJkVkJ3SwFmUvpVTXdFM4hWb6pWSVlVbUxHfTFnM0gUOQVUaOFnd0EDdNl3S1F0Tz4mU2dzcJFzaGZmQJpUQPdFcXpHUDFTOHxHfSVES5kkUyFXOy4UcltyV8xHblVmauFlQFNjdIV1UzxUU0F3U4sGf8V1QptkRqVFRN12Q04GT2UXRmdmV4ZjT4NkW4pWU3w2NvJEd5l2ZndVTFVENjtUZoRlexBHaHlFcElWdBF0Tvh0K1YnU2g1R2EzVlNXTDVkMPNVM8x3SLV3TrNnaLtGf8NlMOJ3bxAHZJtyMmFUZJRFbaBFZuVnRCRmd0p2KapUQkxmS5gTMrgWMVJTN0pnUalTeKJXVwZGdvdFbRl3QCxUTUJTawJUSUJ2dyZHf8dVV2JnMixHfIV0blFlZJRVTZpmeP9WS4wHfxdFWZhVWYx0d4wkbrVjS5kmUqJjaDRTViFXc2gFdER1S5JWUZBVRQxHfaZkWShnRVpGNJdDb5onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL1UlV4sUdqJjTPNzKzMUN4R1SjJEVGxEWwFmUvpVTXdFM4hWbqhVclFTeT92cyVEaiRHUCdUOhFXd0VmTspHdFJmcwclViNXRWVESmRDaMhETmVjZSF3Q4ZzS1FlVllTSSJXc5IjTxV2KXxHfsVWZq5WUCV0M2hUVTNHTRRXcThza8xXVDl2SGpWVE1UbDhnaih2T4A1ZWh3SaRXdZNHMrpUbxEFVwJUand2VNVUR0M2SlhGW6FHcodUWwRUa1FUQP9GSrUjdSZDWHZTMXV2cNNURy80UxgzSLV3TrNnaLtGf8NlMOJ3bxAHZJtyMmFUZJRFbaBFZuVnRCRmd0p2KapUQkxmS5gTMrgWMVJTN0pnUalTeKJXVwZGdvdFbRl3QCxUTUJTawJUSUJ2duZ3KXVldyJjY8xHSF9WZRZWSU1UWqp3TzV0c542RulVYJhFTwklYrtGZ1gjdkRFMnN0bWZWa2cTV4RlUKl3NUpFTFBleGZkWUhnRVRHNJVzbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TPntGcaZEcJdlMzU1NYRjY5FXepVncHZlQNh1bhJEMjd2VBtiVWdDTqplZKVmV4BzVWFTQaR2T0Z0N6RFZ2FEf8dVYKlncWZGVYRHRWd3UjxkThRFNit0UCZ2Q4dGVQp1KXBlQQh1c5cjWmZ2MitiaFJDV3JlQV1WSHV1UzhUQnRnZadnZ0pGayUkMXNUQphUeIZGdxV0Y00Ee2UEcLJXbzNmNxZWWFRTbiZVaS1ESMFTWaF0MEpWcsZ0UkJneohmTFRmMWdTS0J1N6VUO4dlZrhnMItSdtlna5xENM1UTqNEc3IFbatEcnFjTQVjbLN1QVFVcVx0T1cHboFGeOdFNxEzRj5Ge1UHeyg3a0UmZzxGNhpHboFmR3NEZ0RHZE12RCJmTN9kavJ0YqNGcyZ2KKNXZ8x3b1dzRElVYHl0ZTRWWtdWV110c44WYIpVZJhET6lFTrdmT1gTdSpnMOZ3KVJWexdjUoRkUBdkYRVmZV5UOaZkWRhnVWZHNZdzaopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p> Above are the last 3 pictures posted by
    <a href="https://www.instagram.com/london4visit/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london4visit</a>
-   <br /> Currently, the weather is: <b> -2°C, <i>broken clouds</i></b>
+   <br /> Currently, the weather is: <b> -3°C, <i>broken clouds</i></b>
    <br /> Today, the sun rises at <b>07:41</b> and sets at <b>14:03</b>. 
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="15" /> 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 </h3>
@@ -33,16 +33,10 @@
 <a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="40px" src="https://i.imgur.com/PNhxaKM.png" /></a>
 
 <h3><img src="https://i.imgur.com/yQHTmCW.png" width="15" /> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 </h3>
-<div style="display: flex;">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
-<img src="https://i.imgur.com/aMYzrT8.gif" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 0px; margin-bottom: 5px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 0px;" />
-</div>
+<img src="https://github-widgetbox-lki0s5r2o-dipanspotify.vercel.app/api/skills?languages=js,php,python,html,css,cpp,kotlin,bash,r,json,yaml,mysql,powershell,markdown"/>
+<img src="https://github-widgetbox-lki0s5r2o-dipanspotify.vercel.app/api/skills?frameworks=django,bootstrap,angular,ruby,jquery"/>
+<img src="https://github-widgetbox-lki0s5r2o-dipanspotify.vercel.app/api/skills?tools=git,docker,npm,webpack,firebase,wordpress,vercel,nodejs,heroku,apache,nginx,aws,jupyter,prettier"/>
+<img src="https://github-widgetbox-lki0s5r2o-dipanspotify.vercel.app/api/skills?software=linux,windows,vscode"/>
 
 <br />
 <details>
@@ -120,5 +114,5 @@
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Thursday, 5 January, 07:35 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Thursday, 5 January, 10:07 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
