@@ -1,22 +1,29 @@
-<img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=135&text=Hello&animation=fadeIn&fontAlign=15&fontAlignY=40"/>
+<img href="https://themagicalmammal.wrapped.run" src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=135&text=Hello&animation=fadeIn&fontAlign=15&fontAlignY=40"/>
 <p>
    I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
    <img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> 𝗣𝗶𝗰𝘀 𝗳𝗿𝗼𝗺 <img src="https://i.imgur.com/DPngeUJ.png" width="11" /> 𝗟𝗼𝗻𝗱𝗼𝗻 </h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SP9cmQqlURyknaltUNrcHNLJjVygXNi9kWrFGdP92TWdmahpEVuJkVFdjdWdXQwMFMoplSMdjYVlnetNTNqlFW4ZDZB92SitGR4YGZutCc2wHfipWOiJEb1s2QYpFZ2MEcltkWzJlUwkjMRdUVC5EVBFkM8x3c3ADf85WT4FmREVmNutSO0QTQrpGbtpmVoJ2b3NEcB9WUqlme3pVW6pVO3cUa3M3Ys5ka0M3QQpHS4ZkRltWSxYFdY5We6Vnd2c0Zml2QnlUQqJlNxZTQz5keiZ3VFRHRwNGU1gDbxg3SyM2R5UUQUpkaN9mN4pGbq90K2lzb0EWe3EDcIBjdaRDR0MUbLJlYONlex82RNJTQ1UncvtEOhdDeixHfIV0blFlZJRVTZpmeP9WS4wHfxdFWZhVWYx0d4wkbrVjS5kmUqJjaDRTViFXc2gFdER1S5JWUZBVRQxHfaZkWShnRVpGNJdDb5onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL90zZCpWSFJTeqV2S1syd0skMWJDe1cDUYBjT0F0bPZ1ZqFmSU5Gaj1EV4YUd0knW0VTSN90QZF2UYdHNshlTZpXdmZmb8xXWyFHOhdFc2Y3KMxHfy02SvhVePtEWTZ1VRBnWLp1cSJFM5ITUHVlQORVQBJDf8N3NwwHfu1EehZERlZjbrkDN0E0aqxWbqZFai9WQml0YhR2app3daVlMl1mc452VRhTbq5mSnNEU6hEeGZUZrlUMWNHWulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBlS4wWM4tkMjdUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTTpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3TzV0c542RulVYJhFTwklYrtGZ1gjdkRFMnN0bWZWa2cTV4RlUKl3NUpFTFBleGZkWUhnRVRHNJVzbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SPjpmVnNGayMnMPNGMXhneyMkR2kURxNVc0Rne3QnWVJHR8xHThZzRk5md2xUd35GVhFFNHVEV2YmWQNje6dTSjpXZl5EM6NGd2dnZmF2RZxmRIBzNZh2R0wHf8xnVYFmdnR3NXdjcrE1aromTXd0U0l3RLtUczdzZMtST4FmRBtkSyQHM5cWZjpmNyckRollWVxkQR9EZ8xnbsJDf8NmUXNnbRpmR3JmazwkN1MWaEdkQxcFZWN3URBHVuhnN38kN2EVTopXR2VVe5YjN2A3YNlHT2VETRRkcVlHN3gjWw0EdwckdIhnaOJTV0wHfygVVpFmYyZjZJpEeLJ1TDhDUKRzSad0aDZFTkljYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtdWV110c44WYIpVZJhET6lFTrdmT1gTdSpnMOZ3KVJWexdjUoRkUBdkYRVmZV5UOaZkWRhnVWZHNZdzaopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL1UlV4sUdqJjTPNzKzMUN4R1SjJkVkJ3SwFmUvpVTXdFM4hWb6pWSVlVbUxHfTFnM0gUOQVUaOFnd0EDdNl3S1F0Tz4mU2dzcJFzaGZmQJpUQPdFcXpHUDFTOHxHfSVES5kkUyFXOy4UcltyV8xHblVmauFlQFNjdIV1UzxUU0F3U4sGf8V1QptkRqVFRN12Q04GT2UXRmdmV4ZjT4NkW4pWU3w2NvJEd5l2ZndVTFVENjtUZoRlexBHaHlFcElWdBF0Tvh0K1YnU2g1R2EzVlNXTDVkMPNVM8x3SLV3TrNnaLtGf8NlMOJ3bxAHZJtyMmFUZJRFbaBFZuVnRCRmd0p2KapUQkxmS5gTMrgWMVJTN0pnUalTeKJXVwZGdvdFbRl3QCxUTUJTawJUSUJ2dyZHf8dVV2JnMixHfIV0blFlZJRVTZpmeP9WS4wHfxdFWZhVWYx0d4wkbrVjS5kmUqJjaDRTViFXc2gFdER1S5JWUZBVRQxHfaZkWShnRVpGNJdDb5onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL1UlV4sUdqJjTPNzKzMUN4R1SjJEVGxEWwFmUvpVTXdFM4hWbqhVclFTeT92cyVEaiRHUCdUOhFXd0VmTspHdFJmcwclViNXRWVESmRDaMhETmVjZSF3Q4ZzS1FlVllTSSJXc5IjTxV2KXxHfsVWZq5WUCV0M2hUVTNHTRRXcThza8xXVDl2SGpWVE1UbDhnaih2T4A1ZWh3SaRXdZNHMrpUbxEFVwJUand2VNVUR0M2SlhGW6FHcodUWwRUa1FUQP9GSrUjdSZDWHZTMXV2cNNURy80UxgzSLV3TrNnaLtGf8NlMOJ3bxAHZJtyMmFUZJRFbaBFZuVnRCRmd0p2KapUQkxmS5gTMrgWMVJTN0pnUalTeKJXVwZGdvdFbRl3QCxUTUJTawJUSUJ2duZ3KXVldyJjY8xHSF9WZRZWSU1UWqp3TzV0c542RulVYJhFTwklYrtGZ1gjdkRFMnN0bWZWa2cTV4RlUKl3NUpFTFBleGZkWUhnRVRHNJVzbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TPntGcaZEcJdlMzU1NYRjY5FXepVncHZlQNh1bhJEMjd2VBtiVWdDTqplZKVmV4BzVWFTQaR2T0Z0N6RFZ2FEf8dVYKlncWZGVYRHRWd3UjxkThRFNit0UCZ2Q4dGVQp1KXBlQQh1c5cjWmZ2MitiaFJDV3JlQV1WSHV1UzhUQnRnZadnZ0pGayUkMXNUQphUeIZGdxV0Y00Ee2UEcLJXbzNmNxZWWFRTbiZVaS1ESMFTWaF0MEpWcsZ0UkJneohmTFRmMWdTS0J1N6VUO4dlZrhnMItSdtlna5xENM1UTqNEc3IFbatEcnFjTQVjbLN1QVFVcVx0T1cHboFGeOdFNxEzRj5Ge1UHeyg3a0UmZzxGNhpHboFmR3NEZ0RHZE12RCJmTN9kavJ0YqNGcyZ2KKNXZ8x3b1dzRElVYHl0ZTRWWtdWV110c44WYIpVZJhET6lFTrdmT1gTdSpnMOZ3KVJWexdjUoRkUBdkYRVmZV5UOaZkWRhnVWZHNZdzaopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
 <p> Above are the last 3 pictures posted by
    <a href="https://www.instagram.com/london4visit/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london4visit</a>
-   <br /> Currently, the weather is: <b> -6°C, <i>clear sky</i></b>
-   <br /> Today, the sun rises at <b>07:42</b> and sets at <b>14:01</b>. 
+   <br /> Currently, the weather is: <b> -2°C, <i>broken clouds</i></b>
+   <br /> Today, the sun rises at <b>07:41</b> and sets at <b>14:03</b>. 
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="15" /> 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 </h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="15" /> 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀 </h3>
 <img src="https://github-stats-6sata0uvx-dipanspotify.vercel.app/api?username=themagicalmammal&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" alt="Dipan&#39;s GitHub stats" />
 <h3><img src="https://i.imgur.com/yQHTmCW.png" width="15" /> 𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝗲 </h3>
+<a href="https://github.com/themagicalmammal/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
+<a href="https://gist.github.com/themagicalmammal/"> <img alt="Gist" width="40px" src="https://i.imgur.com/6w4HNmL.png" /></a>
+<a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="40px" src="https://i.imgur.com/901ps8h.png" /></a>
 <a href="https://uk.linkedin.com/in/themagicalmammal/"> <img alt="Linkedin" width="40px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
 <a href="https://www.reddit.com/user/themagicalmammal/"> <img alt="Reddit" width="40px" src="https://i.imgur.com/E8vTLyb.png" /></a>
 <a href="https://telegram.im/@themagicalmammal"> <img alt="Telegram" width="40px" src="https://i.imgur.com/8uCq4fi.png" /> </a>
+<a href="https://www.kaggle.com/themagicalmammal"> <img alt="Kaggle" width="40px" src="https://i.imgur.com/6XAnA1Y.png" /></a>
+<a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/"> <img alt="XDA" width="40px" src="https://i.imgur.com/ZkDQREa.png" /></a>
+<a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf"> <img alt="Coursera" width="40px" src="https://i.imgur.com/bxjrGF3.png" /></a>
+<a href="https://www.sololearn.com/profile/4562055"> <img alt="Sololearn" width="40px" src="https://i.imgur.com/6mnh2V5.png" /></a>
 <a href="https://www.quora.com/profile/Dipan-Nanda"> <img alt="Quora" width="40px" src="https://i.imgur.com/4fFA2aO.png" /> </a>
 <a href="https://dsc.bio/themagicalmammal"> <img alt="Discord" width="40px" src="https://i.imgur.com/allk32s.png" /></a>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6?si=i5kyqZQOQmOu_NRn-T7FQw&nd=1"> <img alt="Spotify" width="40px" src="https://i.imgur.com/TuGJlcZ.png" /> </a>
@@ -24,17 +31,24 @@
 <a href="https://myanimelist.net/profile/themagicalmammal"> <img alt="MAL" width="40px" src="https://i.imgur.com/TnZcuA4.png" /></a>
 <a href="https://medium.com/@d19cyber"> <img alt="Medium" width="40px" src="https://i.imgur.com/HvRIk6L.png" /></a>
 <a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="40px" src="https://i.imgur.com/PNhxaKM.png" /></a>
+
+<h3><img src="https://i.imgur.com/yQHTmCW.png" width="15" /> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 </h3>
+<div style="display: flex;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
+<img src="https://i.imgur.com/aMYzrT8.gif" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 5px;" />
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 0px; margin-bottom: 5px;" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="62" style="width: 48px; height: 48px; margin-right: 5px; margin-bottom: 0px;" />
+</div>
+
 <br />
 <details>
    <summary> &#9655;</summary>
-   <h3><img src="https://i.imgur.com/YWn1uv5.png" width="15" /> 𝗖𝗼𝗱𝗶𝗻𝗴 𝗣𝗿𝗼𝗳𝗶𝗹𝗲𝘀 </h3>
-   <a href="https://github.com/themagicalmammal/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
-   <a href="https://gist.github.com/themagicalmammal/"> <img alt="Gist" width="40px" src="https://i.imgur.com/6w4HNmL.png" /></a>
-   <a href="https://www.kaggle.com/themagicalmammal"> <img alt="Kaggle" width="40px" src="https://i.imgur.com/6XAnA1Y.png" /></a>
-   <a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/"> <img alt="XDA" width="40px" src="https://i.imgur.com/ZkDQREa.png" /></a>
-   <a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf"> <img alt="Coursera" width="40px" src="https://i.imgur.com/bxjrGF3.png" /></a>
-   <a href="https://www.sololearn.com/profile/4562055"> <img alt="Sololearn" width="40px" src="https://i.imgur.com/6mnh2V5.png" /></a>
-   <a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="40px" src="https://i.imgur.com/901ps8h.png" /></a>
+   <h3><img src="https://i.imgur.com/YWn1uv5.png" width="15" /> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀 </h3>
+   <img src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/570906a18f71e9d8faccb8a2b62acae73e5a6e34/profile-3d-contrib/profile-night-rainbow.svg" alt="contrib" />
    <br />
    <details>
       <summary> &#9655;</summary>
@@ -106,5 +120,5 @@
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Wednesday, 4 January, 00:45 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Thursday, 5 January, 07:35 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
