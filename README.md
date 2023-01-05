@@ -31,15 +31,11 @@
 <a href="https://myanimelist.net/profile/themagicalmammal"> <img alt="MAL" width="40px" src="https://i.imgur.com/TnZcuA4.png" /></a>
 <a href="https://medium.com/@d19cyber"> <img alt="Medium" width="40px" src="https://i.imgur.com/HvRIk6L.png" /></a>
 <a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="40px" src="https://i.imgur.com/PNhxaKM.png" /></a>
-
-<h3><img src="https://cdn-icons-png.flaticon.com/512/4257/4257487.png" width="15" /> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 </h3>
-<img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,php,pytorch,latex,linkedin,linux,powershell,md,matlab,octave,jquery,rails,bash,github,git,githubactions,stackoverflow,vim,visualstudio,d3,flask,angular,atom,emacs,cpp,heroku,firebase,sqlite,mysql,aws,gcp,cassandra,docker,bootstrap,codepen,webpack,wordpress,nodejs,tensorflow,androidstudio" />
-
 <br />
 <details>
    <summary> &#9655;</summary>
-   <h3><img src="https://i.imgur.com/YWn1uv5.png" width="15" /> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀 </h3>
-   <img src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/570906a18f71e9d8faccb8a2b62acae73e5a6e34/profile-3d-contrib/profile-night-rainbow.svg" alt="contrib" />
+   <h3><img src="https://cdn-icons-png.flaticon.com/512/4257/4257487.png" width="15" /> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 </h3>
+   <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,php,pytorch,latex,linux,powershell,md,rails,bash,github,git,githubactions,visualstudio,flask,angular,atom,cpp,heroku,firebase,sqlite,mysql,aws,gcp,cassandra,docker" />
    <br />
    <details>
       <summary> &#9655;</summary>
@@ -111,5 +107,5 @@
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Thursday, 5 January, 10:26 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Thursday, 5 January, 10:41 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
