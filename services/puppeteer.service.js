@@ -55,7 +55,6 @@ class PuppeteerService {
       await this.goToPage(page);
       let previousHeight;
 
-      previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
       // 🔽 Doesn't seem to be needed
       // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
