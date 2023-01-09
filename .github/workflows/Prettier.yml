@@ -4,8 +4,6 @@ name: Prettier
 on:
   pull_request:
   push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
@@ -23,4 +21,4 @@ jobs:
         uses: creyD/prettier_action@v4.2
         with:
           # This part is also where you can pass other options, for example:
-          prettier_options: --write **/*.{js,md}
+          prettier_options: --write **/*.{js,md,mustache}

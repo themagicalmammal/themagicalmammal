@@ -1,4 +1,4 @@
-name: Readme Workflow
+name: README Workflow
 
 on:
   schedule:
@@ -10,18 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
+      - name: Checkout
         uses: actions/checkout@v3
-      - name: setup node
+      - name: Setup node
         uses: actions/setup-node@v3
         with:
           node-version: '13.x'
-      - name: cache
+      - name: Cache
         uses: actions/cache@v3
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install
       - name: Generate README file
         run: node index.js
