@@ -12,5 +12,11 @@
             "automerge": true
         }
     ],
-    "prConcurrentLimit": 5
+    "prConcurrentLimit": 5,
+    lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true,
+    "automergeType": "pr",
+    "platformAutomerge": true
+  }
 }
