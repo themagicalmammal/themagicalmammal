@@ -3,7 +3,7 @@
    I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
    <img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London </h3>
-Currently, the weather is: <b> -3°C, <i>overcast clouds</i></b>
+Currently, the weather is: <b> -3°C, <i>mist</i></b>
 <br /> Today, the sun rises at <b>07:21</b> and sets at <b>14:36</b>. 
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing </h3>
@@ -43,57 +43,42 @@ Currently, the weather is: <b> -3°C, <i>overcast clouds</i></b>
          <br />
          <details>
             <summary> &#9655;</summary>
-            <h3><img src="https://i.imgur.com/1mimHIo.png" width="15" /> Credits </h3>
-            <ol>
-               <li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/sourajitk">Sourajit Karmakar</a></li>
-               <li><img src="https://cdn-icons-png.flaticon.com/128/197/197564.png" width="13" /> <a href="https://github.com/thmsgbrt">Thomas Guibert</a></li>
-               <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/Prince-Shivaram">Siv Ram Shastri Jonnalagadda</a></li>
-               <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/anuraghazra">Anurag Hazra</a></li>
-               <li><img src="https://cdn-icons-png.flaticon.com/128/197/197559.png" width="13" /> <a href="https://github.com/owl4ce">Harry</a></li>
-               <li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/ryanlanciaux">Ryan Lanciaux</a></li>
-               <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/ashleymavericks">Anurag Singh</a></li>
-            </ol>
+            <h3><img src="https://i.imgur.com/XJ0hI8P.png" width="15" /> Visitor </h3>
+            <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
+            <br /> 
             <details>
                <summary> &#9655;</summary>
-               <h3><img src="https://i.imgur.com/XJ0hI8P.png" width="15" /> Visitor </h3>
-               <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
+               <h3><img src="https://i.imgur.com/E9Droaq.png" width="15" /> End Credits </h3>
+               <div>
+                                       <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="3.6%"/>
+                  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="3.6%"/>
+               </div>
                <br /> 
-               <details>
-                  <summary> &#9655;</summary>
-                  <h3><img src="https://i.imgur.com/E9Droaq.png" width="15" /> End Credits </h3>
-                  <div>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-                     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-                  </div>
-                  <br /> 
-               </details>
             </details>
          </details>
       </details>
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 16:06 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 16:18 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
