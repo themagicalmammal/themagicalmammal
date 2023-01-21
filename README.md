@@ -11,22 +11,22 @@ Currently, the weather is: <b> -3°C, <i>overcast clouds</i></b>
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="15" /> My Stats </h3>
 <img src="/profile-3d-contrib/profile-night-rainbow.svg" alt="Dipan&#39;s GitHub stats" />
 <h3><img src="https://i.imgur.com/yQHTmCW.png" width="15" /> Where to find me </h3>
-<a href="https://gist.github.com/themagicalmammal/"> <img alt="Gist" width="5.6%" src="https://i.imgur.com/6w4HNmL.png" /></a>
-<a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="5.6%" src="https://i.imgur.com/901ps8h.png" /></a>
-<a href="https://uk.linkedin.com/in/themagicalmammal/"> <img alt="Linkedin" width="5.6%" src="https://i.imgur.com/Hp2w5wM.png" /></a>
-<a href="https://www.reddit.com/user/themagicalmammal/"> <img alt="Reddit" width="5.6%" src="https://i.imgur.com/E8vTLyb.png" /></a>
-<a href="https://telegram.im/@themagicalmammal"> <img alt="Telegram" width="5.6%" src="https://i.imgur.com/8uCq4fi.png" /> </a>
-<a href="https://www.kaggle.com/themagicalmammal"> <img alt="Kaggle" width="5.6%" src="https://i.imgur.com/6XAnA1Y.png" /></a>
-<a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/"> <img alt="XDA" width="5.6%" src="https://i.imgur.com/ZkDQREa.png" /></a>
-<a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf"> <img alt="Coursera" width="5.6%" src="https://i.imgur.com/bxjrGF3.png" /></a>
-<a href="https://www.sololearn.com/profile/4562055"> <img alt="Sololearn" width="5.6%" src="https://i.imgur.com/6mnh2V5.png" /></a>
-<a href="https://www.quora.com/profile/Dipan-Nanda"> <img alt="Quora" width="5.6%" src="https://i.imgur.com/4fFA2aO.png" /> </a>
-<a href="https://dsc.bio/themagicalmammal"> <img alt="Discord" width="5.6%" src="https://i.imgur.com/allk32s.png" /></a>
-<a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6?si=i5kyqZQOQmOu_NRn-T7FQw&nd=1"> <img alt="Spotify" width="5.6%" src="https://i.imgur.com/TuGJlcZ.png" /> </a>
-<a href="https://www.deviantart.com/themagicalmammal"> <img alt="Devintart" width="5.6%" src="https://i.imgur.com/YWUKoPE.png" /></a>
-<a href="https://myanimelist.net/profile/themagicalmammal"> <img alt="MAL" width="5.6%" src="https://i.imgur.com/TnZcuA4.png" /></a>
-<a href="https://medium.com/@d19cyber"> <img alt="Medium" width="5.6%" src="https://i.imgur.com/HvRIk6L.png" /></a>
-<a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="5.6%" src="https://i.imgur.com/PNhxaKM.png" /></a>
+<a href="https://gist.github.com/themagicalmammal/"> <img alt="Gist" width="5.4%" src="https://i.imgur.com/6w4HNmL.png" /></a>
+<a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="5.4%" src="https://i.imgur.com/901ps8h.png" /></a>
+<a href="https://uk.linkedin.com/in/themagicalmammal/"> <img alt="Linkedin" width="5.4%" src="https://i.imgur.com/Hp2w5wM.png" /></a>
+<a href="https://www.reddit.com/user/themagicalmammal/"> <img alt="Reddit" width="5.4%" src="https://i.imgur.com/E8vTLyb.png" /></a>
+<a href="https://telegram.im/@themagicalmammal"> <img alt="Telegram" width="5.4%" src="https://i.imgur.com/8uCq4fi.png" /> </a>
+<a href="https://www.kaggle.com/themagicalmammal"> <img alt="Kaggle" width="5.4%" src="https://i.imgur.com/6XAnA1Y.png" /></a>
+<a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/"> <img alt="XDA" width="5.4%" src="https://i.imgur.com/ZkDQREa.png" /></a>
+<a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf"> <img alt="Coursera" width="5.4%" src="https://i.imgur.com/bxjrGF3.png" /></a>
+<a href="https://www.sololearn.com/profile/4562055"> <img alt="Sololearn" width="5.4%" src="https://i.imgur.com/6mnh2V5.png" /></a>
+<a href="https://www.quora.com/profile/Dipan-Nanda"> <img alt="Quora" width="5.4%" src="https://i.imgur.com/4fFA2aO.png" /> </a>
+<a href="https://dsc.bio/themagicalmammal"> <img alt="Discord" width="5.4%" src="https://i.imgur.com/allk32s.png" /></a>
+<a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6?si=i5kyqZQOQmOu_NRn-T7FQw&nd=1"> <img alt="Spotify" width="5.4%" src="https://i.imgur.com/TuGJlcZ.png" /> </a>
+<a href="https://www.deviantart.com/themagicalmammal"> <img alt="Devintart" width="5.4%" src="https://i.imgur.com/YWUKoPE.png" /></a>
+<a href="https://myanimelist.net/profile/themagicalmammal"> <img alt="MAL" width="5.4%" src="https://i.imgur.com/TnZcuA4.png" /></a>
+<a href="https://medium.com/@d19cyber"> <img alt="Medium" width="5.4%" src="https://i.imgur.com/HvRIk6L.png" /></a>
+<a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="5.4%" src="https://i.imgur.com/PNhxaKM.png" /></a>
 <br />
 <details>
    <summary> &#9655;</summary>
@@ -40,62 +40,56 @@ Currently, the weather is: <b> -3°C, <i>overcast clouds</i></b>
       <br />
       <details>
          <summary> &#9655;</summary>
-         <h3><img src="https://i.imgur.com/4J40SKi.png" width="15" /> Latest Blog Post </h3>
-         <a href="[https://en.wikipedia.org/wiki/Cat](https://medium.com/@d19cyber)"><img alt="QRCode" src="https://medium-stats-q236lv7ba-dipanspotify.vercel.app/?username=d19cyber" /></a>
+         <h3><img src="https://i.imgur.com/xGG5c7N.png" width="15" /> QR Code </h3>
+         <img alt="QRCode" width="200px" src="https://i.imgur.com/FS60AP0.png" />
          <br />
          <details>
             <summary> &#9655;</summary>
-            <h3><img src="https://i.imgur.com/xGG5c7N.png" width="15" /> QR Code </h3>
-            <img alt="QRCode" width="200px" src="https://i.imgur.com/FS60AP0.png" />
-            <br />
+            <h3><img src="https://i.imgur.com/1mimHIo.png" width="15" /> Credits </h3>
+            <ol>
+               <li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/sourajitk">Sourajit Karmakar</a></li>
+               <li><img src="https://cdn-icons-png.flaticon.com/128/197/197564.png" width="13" /> <a href="https://github.com/thmsgbrt">Thomas Guibert</a></li>
+               <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/Prince-Shivaram">Siv Ram Shastri Jonnalagadda</a></li>
+               <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/anuraghazra">Anurag Hazra</a></li>
+               <li><img src="https://cdn-icons-png.flaticon.com/128/197/197559.png" width="13" /> <a href="https://github.com/owl4ce">Harry</a></li>
+               <li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/ryanlanciaux">Ryan Lanciaux</a></li>
+               <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/ashleymavericks">Anurag Singh</a></li>
+            </ol>
             <details>
                <summary> &#9655;</summary>
-               <h3><img src="https://i.imgur.com/1mimHIo.png" width="15" /> Credits </h3>
-               <ol>
-                  <li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/sourajitk">Sourajit Karmakar</a></li>
-                  <li><img src="https://cdn-icons-png.flaticon.com/128/197/197564.png" width="13" /> <a href="https://github.com/thmsgbrt">Thomas Guibert</a></li>
-                  <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/Prince-Shivaram">Siv Ram Shastri Jonnalagadda</a></li>
-                  <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/anuraghazra">Anurag Hazra</a></li>
-                  <li><img src="https://cdn-icons-png.flaticon.com/128/197/197559.png" width="13" /> <a href="https://github.com/owl4ce">Harry</a></li>
-                  <li><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="13" /> <a href="https://github.com/ryanlanciaux">Ryan Lanciaux</a></li>
-                  <li><img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13" /> <a href="https://github.com/ashleymavericks">Anurag Singh</a></li>
-               </ol>
+               <h3><img src="https://i.imgur.com/XJ0hI8P.png" width="15" /> Visitor </h3>
+               <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
+               <br /> 
                <details>
                   <summary> &#9655;</summary>
-                  <h3><img src="https://i.imgur.com/XJ0hI8P.png" width="15" /> Visitor </h3>
-                  <img src="https://profile-counter.glitch.me/themagicalmammal/count.svg" />
+                  <h3><img src="https://i.imgur.com/E9Droaq.png" width="15" /> End Credits </h3>
+                  <div>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+                     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+                  </div>
                   <br /> 
-                  <details>
-                     <summary> &#9655;</summary>
-                     <h3><img src="https://i.imgur.com/E9Droaq.png" width="15" /> End Credits </h3>
-                     <div>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-                        <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-                     </div>
-                     <br /> 
-                  </details>
                </details>
             </details>
          </details>
@@ -103,5 +97,5 @@ Currently, the weather is: <b> -3°C, <i>overcast clouds</i></b>
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 15:41 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 15:59 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
