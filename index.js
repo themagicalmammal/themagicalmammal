@@ -57,7 +57,6 @@ async function action() {
    * Generate README
    */
   await generateReadMe();
-
 }
 
 action();
