@@ -3,30 +3,30 @@
    I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
    <img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in <img src="https://i.imgur.com/DPngeUJ.png" width="11" /> London </h3>
-   <br /> Currently, the weather is: <b> -3°C, <i>mist</i></b>
-   <br /> Today, the sun rises at <b>07:21</b> and sets at <b>14:36</b>. 
+Currently, the weather is: <b> -3°C, <i>mist</i></b>
+<br /> Today, the sun rises at <b>07:21</b> and sets at <b>14:36</b>. 
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing </h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
 <h3><img src="https://i.imgur.com/84QPnNl.png" width="15" /> My Stats </h3>
 <img src="https://github-stats-6sata0uvx-dipanspotify.vercel.app/api?username=themagicalmammal&amp;include_all_commits=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" alt="Dipan&#39;s GitHub stats" />
 <h3><img src="https://i.imgur.com/yQHTmCW.png" width="15" /> Where to find me </h3>
-<a href="https://gist.github.com/themagicalmammal/"> <img alt="Gist" width="48px" src="https://i.imgur.com/6w4HNmL.png" /></a>
-<a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="48px" src="https://i.imgur.com/901ps8h.png" /></a>
-<a href="https://uk.linkedin.com/in/themagicalmammal/"> <img alt="Linkedin" width="48px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
-<a href="https://www.reddit.com/user/themagicalmammal/"> <img alt="Reddit" width="48px" src="https://i.imgur.com/E8vTLyb.png" /></a>
-<a href="https://telegram.im/@themagicalmammal"> <img alt="Telegram" width="48px" src="https://i.imgur.com/8uCq4fi.png" /> </a>
-<a href="https://www.kaggle.com/themagicalmammal"> <img alt="Kaggle" width="48px" src="https://i.imgur.com/6XAnA1Y.png" /></a>
-<a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/"> <img alt="XDA" width="48px" src="https://i.imgur.com/ZkDQREa.png" /></a>
-<a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf"> <img alt="Coursera" width="48px" src="https://i.imgur.com/bxjrGF3.png" /></a>
-<a href="https://www.sololearn.com/profile/4562055"> <img alt="Sololearn" width="48px" src="https://i.imgur.com/6mnh2V5.png" /></a>
-<a href="https://www.quora.com/profile/Dipan-Nanda"> <img alt="Quora" width="48px" src="https://i.imgur.com/4fFA2aO.png" /> </a>
-<a href="https://dsc.bio/themagicalmammal"> <img alt="Discord" width="48px" src="https://i.imgur.com/allk32s.png" /></a>
-<a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6?si=i5kyqZQOQmOu_NRn-T7FQw&nd=1"> <img alt="Spotify" width="48px" src="https://i.imgur.com/TuGJlcZ.png" /> </a>
-<a href="https://www.deviantart.com/themagicalmammal"> <img alt="Devintart" width="48px" src="https://i.imgur.com/YWUKoPE.png" /></a>
-<a href="https://myanimelist.net/profile/themagicalmammal"> <img alt="MAL" width="48px" src="https://i.imgur.com/TnZcuA4.png" /></a>
-<a href="https://medium.com/@d19cyber"> <img alt="Medium" width="48px" src="https://i.imgur.com/HvRIk6L.png" /></a>
-<a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="48px" src="https://i.imgur.com/PNhxaKM.png" /></a>
+<a href="https://gist.github.com/themagicalmammal/"> <img alt="Gist" width="4.75%" src="https://i.imgur.com/6w4HNmL.png" /></a>
+<a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="4.75%" src="https://i.imgur.com/901ps8h.png" /></a>
+<a href="https://uk.linkedin.com/in/themagicalmammal/"> <img alt="Linkedin" width="4.75%" src="https://i.imgur.com/Hp2w5wM.png" /></a>
+<a href="https://www.reddit.com/user/themagicalmammal/"> <img alt="Reddit" width="4.75%" src="https://i.imgur.com/E8vTLyb.png" /></a>
+<a href="https://telegram.im/@themagicalmammal"> <img alt="Telegram" width="4.75%" src="https://i.imgur.com/8uCq4fi.png" /> </a>
+<a href="https://www.kaggle.com/themagicalmammal"> <img alt="Kaggle" width="4.75%" src="https://i.imgur.com/6XAnA1Y.png" /></a>
+<a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/"> <img alt="XDA" width="4.75%" src="https://i.imgur.com/ZkDQREa.png" /></a>
+<a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf"> <img alt="Coursera" width="4.75%" src="https://i.imgur.com/bxjrGF3.png" /></a>
+<a href="https://www.sololearn.com/profile/4562055"> <img alt="Sololearn" width="4.75%" src="https://i.imgur.com/6mnh2V5.png" /></a>
+<a href="https://www.quora.com/profile/Dipan-Nanda"> <img alt="Quora" width="4.75%" src="https://i.imgur.com/4fFA2aO.png" /> </a>
+<a href="https://dsc.bio/themagicalmammal"> <img alt="Discord" width="4.75%" src="https://i.imgur.com/allk32s.png" /></a>
+<a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6?si=i5kyqZQOQmOu_NRn-T7FQw&nd=1"> <img alt="Spotify" width="4.75%" src="https://i.imgur.com/TuGJlcZ.png" /> </a>
+<a href="https://www.deviantart.com/themagicalmammal"> <img alt="Devintart" width="4.75%" src="https://i.imgur.com/YWUKoPE.png" /></a>
+<a href="https://myanimelist.net/profile/themagicalmammal"> <img alt="MAL" width="4.75%" src="https://i.imgur.com/TnZcuA4.png" /></a>
+<a href="https://medium.com/@d19cyber"> <img alt="Medium" width="4.75%" src="https://i.imgur.com/HvRIk6L.png" /></a>
+<a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ"> <img alt="Plum" width="4.75%" src="https://i.imgur.com/PNhxaKM.png" /></a>
 <br />
 <details>
    <summary> &#9655;</summary>
@@ -103,5 +103,5 @@
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 15:19 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 15:30 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
