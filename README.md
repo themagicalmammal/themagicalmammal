@@ -8,8 +8,6 @@ Currently, the weather is: <b> -3°C, <i>overcast clouds</i></b>
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing </h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
-<h3><img src="https://i.imgur.com/84QPnNl.png" width="15" /> My Stats </h3>
-<img src="/profile-3d-contrib/profile-night-rainbow.svg" alt="Dipan&#39;s GitHub stats" />
 <h3><img src="https://i.imgur.com/yQHTmCW.png" width="15" /> Where to find me </h3>
 <a href="https://gist.github.com/themagicalmammal/"> <img alt="Gist" width="5.4%" src="https://i.imgur.com/6w4HNmL.png" /></a>
 <a href="https://pypi.org/user/themagicalmammal/"> <img alt="Pypi" width="5.4%" src="https://i.imgur.com/901ps8h.png" /></a>
@@ -97,5 +95,5 @@ Currently, the weather is: <b> -3°C, <i>overcast clouds</i></b>
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 15:59 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 16:06 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
