@@ -2,12 +2,9 @@
 <p>
    I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
    <img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
-<h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Pics from <img src="https://i.imgur.com/DPngeUJ.png" width="11" /> London </h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL1UlV4sUdqJjTPNzKzMUN4R1SjJkVkJ3SwFmUvpVTXdFM4hWb6pWSVlVbUxHfTFnM0gUOQVUaOFnd0EDdNl3S1F0Tz4mU2dzcJFzaGZmQJpUQPdFcXpHUDFTOHxHfSVES5kkUyFXOy4UcltyV8xHblVmauFlQFNjdIV1UzxUU0F3U4sGf8V1QptkRqVFRN12Q04GT2UXRmdmV4ZjT4NkW4pWU3w2NvJEd5l2ZndVTFVENjtUZoRlexBHaHlFcElWdBF0Tvh0K1YnU2g1R2EzVlNXTDVkMPNVM8x3SLV3TrNnaLtGf8NlMOJ3bxAHZJtyMmFUZJRFbaBFZuVnRCRmd0p2KapUQkxmS5gTMrgWMVJTN0pnUalTeKJXVwZGdvdFbRl3QCxUTUJTawJUSUJ2dyZHf8dVV2JnMixHfIV0blFlZJRVTZpmeP9WS4wHfxdFWZhVWYx0d4wkbrVjS5kmUqJjaDRTViFXc2gFdER1S5JWUZBVRQxHfaZkWShnRVpGNJdDb5onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL1UlV4sUdqJjTPNzKzMUN4R1SjJEVGxEWwFmUvpVTXdFM4hWbqhVclFTeT92cyVEaiRHUCdUOhFXd0VmTspHdFJmcwclViNXRWVESmRDaMhETmVjZSF3Q4ZzS1FlVllTSSJXc5IjTxV2KXxHfsVWZq5WUCV0M2hUVTNHTRRXcThza8xXVDl2SGpWVE1UbDhnaih2T4A1ZWh3SaRXdZNHMrpUbxEFVwJUand2VNVUR0M2SlhGW6FHcodUWwRUa1FUQP9GSrUjdSZDWHZTMXV2cNNURy80UxgzSLV3TrNnaLtGf8NlMOJ3bxAHZJtyMmFUZJRFbaBFZuVnRCRmd0p2KapUQkxmS5gTMrgWMVJTN0pnUalTeKJXVwZGdvdFbRl3QCxUTUJTawJUSUJ2duZ3KXVldyJjY8xHSF9WZRZWSU1UWqp3TzV0c542RulVYJhFTwklYrtGZ1gjdkRFMnN0bWZWa2cTV4RlUKl3NUpFTFBleGZkWUhnRVRHNJVzbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIx8zZlBnau0TPntGcaZEcJdlMzU1NYRjY5FXepVncHZlQNh1bhJEMjd2VBtiVWdDTqplZKVmV4BzVWFTQaR2T0Z0N6RFZ2FEf8dVYKlncWZGVYRHRWd3UjxkThRFNit0UCZ2Q4dGVQp1KXBlQQh1c5cjWmZ2MitiaFJDV3JlQV1WSHV1UzhUQnRnZadnZ0pGayUkMXNUQphUeIZGdxV0Y00Ee2UEcLJXbzNmNxZWWFRTbiZVaS1ESMFTWaF0MEpWcsZ0UkJneohmTFRmMWdTS0J1N6VUO4dlZrhnMItSdtlna5xENM1UTqNEc3IFbatEcnFjTQVjbLN1QVFVcVx0T1cHboFGeOdFNxEzRj5Ge1UHeyg3a0UmZzxGNhpHboFmR3NEZ0RHZE12RCJmTN9kavJ0YqNGcyZ2KKNXZ8x3b1dzRElVYHl0ZTRWWtdWV110c44WYIpVZJhET6lFTrdmT1gTdSpnMOZ3KVJWexdjUoRkUBdkYRVmZV5UOaZkWRhnVWZHNZdzaopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kU1EES2VEUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
-<p> Above are the last 3 pictures posted by
-   <a href="https://www.instagram.com/london4visit/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="13" /> @london4visit</a>
-   <br /> Currently, the weather is: <b> -3°C, <i>broken clouds</i></b>
-   <br /> Today, the sun rises at <b>07:41</b> and sets at <b>14:03</b>. 
+<h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in <img src="https://i.imgur.com/DPngeUJ.png" width="11" /> London </h3>
+   <br /> Currently, the weather is: <b> -3°C, <i>mist</i></b>
+   <br /> Today, the sun rises at <b>07:21</b> and sets at <b>14:36</b>. 
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing </h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
@@ -106,5 +103,5 @@
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Thursday, 5 January, 10:46 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 21 January, 15:19 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
