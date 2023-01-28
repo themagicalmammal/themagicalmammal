@@ -1,5 +1,5 @@
 <img href="https://themagicalmammal.wrapped.run" src="/header.gif"/>
-<img href="https://themagicalmammal.wrapped.run" src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&reversal=true&height=80"/>
+<img href="https://themagicalmammal.wrapped.run" src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&reversal=true&height=80"/>
 
 <p>
    I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
@@ -77,4 +77,4 @@ Currently, the weather is: <b> -2°C, <i>overcast clouds</i></b>
 </details>
 <br />
 <p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 28 January, 03:20 GMT</p>
-<img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=0:EEFF00,100:a82da&reversal=true&height=80&section=footer"/>
+<img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer"/>
