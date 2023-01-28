@@ -1,3 +1,4 @@
+![](/header.gif)
 <img href="https://themagicalmammal.wrapped.run" src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=135&text=Hello&animation=fadeIn&fontAlign=15&fontAlignY=40"/>
 <p>
    I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
