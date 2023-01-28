@@ -1,5 +1,5 @@
 <img href="https://themagicalmammal.wrapped.run" src="/header.gif"/>
-   I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
+   <p> I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
    <img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London </h3>
 Currently, the weather is: <b> 0°C, <i>broken clouds</i></b>
@@ -73,5 +73,5 @@ Currently, the weather is: <b> 0°C, <i>broken clouds</i></b>
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 28 January, 08:33 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 28 January, 08:36 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer"/>
