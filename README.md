@@ -3,8 +3,8 @@
    I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
    <img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London </h3>
-Currently, the weather is: <b> -3°C, <i>clear sky</i></b>
-<br /> Today, the sun rises at <b>07:09</b> and sets at <b>14:50</b>. 
+Currently, the weather is: <b> -2°C, <i>overcast clouds</i></b>
+<br /> Today, the sun rises at <b>07:07</b> and sets at <b>14:53</b>. 
 </p>
 <h3><img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing </h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6"><img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" /></a>
@@ -74,5 +74,5 @@ Currently, the weather is: <b> -3°C, <i>clear sky</i></b>
    </details>
 </details>
 <br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Friday, 27 January, 03:20 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 28 January, 03:20 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=80&section=footer"/>
