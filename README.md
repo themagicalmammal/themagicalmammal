@@ -33,7 +33,7 @@ Currently, the weather is: <b> 0°C, <i>broken clouds</i></b>
    <details>
       <summary> &#9655;</summary>
       <h3><img src="https://i.imgur.com/x8tsLuE.png" width="15" /> Trophies </h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=themagicalmammal&amp;theme=onestar&amp;row=1&amp;column=5" alt="trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=themagicalmammal&amp;theme=onestar&amp;row=1&amp;column=4" alt="trophy" />
       <br />
       <details>
          <summary> &#9655;</summary>
@@ -72,6 +72,6 @@ Currently, the weather is: <b> 0°C, <i>broken clouds</i></b>
       </details>
    </details>
 </details>
-<br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 28 January, 08:36 GMT</p>
+
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 28 January, 09:14 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer"/>
