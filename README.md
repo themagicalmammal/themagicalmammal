@@ -28,7 +28,7 @@ Currently, the weather is: <b> 0°C, <i>broken clouds</i></b>
 <details>
    <summary> &#9655;</summary>
    <h3><img src="https://cdn-icons-png.flaticon.com/512/4257/4257487.png" width="15" /> Tech Stack </h3>
-   <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,php,pytorch,latex,linux,powershell,md,rails,bash,github,git,githubactions,visualstudio,flask,angular,atom,cpp,heroku,firebase,sqlite,mysql,aws,gcp,cassandra,docker" />
+   <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,latex,linux,md,bash,git,visualstudio,angular,cpp,mysql" />
    <br />
    <details>
       <summary> &#9655;</summary>
@@ -73,5 +73,5 @@ Currently, the weather is: <b> 0°C, <i>broken clouds</i></b>
    </details>
 </details>
 
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 28 January, 09:14 GMT</p>
+<p><img src="https://i.imgur.com/JgaEjcz.png" width="11" /> <b> Last Refresh: </b> Saturday, 28 January, 09:19 GMT</p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer"/>
