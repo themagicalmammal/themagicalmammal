@@ -1,7 +1,7 @@
 <img href="https://themagicalmammal.wrapped.run" src="/images/header.gif"/>
    <p> I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
    <img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
-<img align="right" width="320" height="auto" src="/images/octocat/6.gif">
+<img align="right" width="300" height="auto" src="/images/octocat/6.gif">
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London </h3>
 Currently, the weather is: <b> 0°C, <i>overcast clouds</i></b>
 <br /> Today, the sun rises at <b>07:07</b> and sets at <b>14:53</b>. 
@@ -33,13 +33,13 @@ Currently, the weather is: <b> 0°C, <i>overcast clouds</i></b>
    <br />
    <details>
       <summary> &#9655;</summary>
-      <img align="right" width="200" height="auto" src="/images/octocat/4.gif">
+      <img align="right" width="190" height="auto" src="/images/octocat/4.gif">
       <h3><img src="https://i.imgur.com/x8tsLuE.png" width="15" /> Trophies </h3>
       <img src="https://github-profile-trophy.vercel.app/?username=themagicalmammal&amp;theme=onestar&amp;row=1&amp;column=4" alt="trophy" />
       <br />
       <details>
          <summary> &#9655;</summary>
-         <img align="right" width="200" height="auto" src="/images/octocat/5.gif">
+         <img align="right" width="190" height="auto" src="/images/octocat/5.gif">
          <h3><img src="https://i.imgur.com/XJ0hI8P.png" width="15" /> Visitor </h3>
          <img src="https://count.getloli.com/get/@themagicalmammal.github" />
          <br /> 
