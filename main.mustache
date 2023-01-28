@@ -1,4 +1,4 @@
-<img href="https://themagicalmammal.wrapped.run" src="/header.gif"/>
+<img href="https://themagicalmammal.wrapped.run" src="/images/header.gif"/>
    <p> I am Dipan, a Python Developer at <a href="https://www.etlsystems.com"> 
    <img src="https://i.imgur.com/wCpjNzM.png" width="13" /> ETL Systems </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" /> <b>London, England</b>. 
 <h3><img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London </h3>
