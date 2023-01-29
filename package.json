@@ -25,7 +25,7 @@
   "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
   "dependencies": {
     "dotenv": "^8.6.0",
-    "mustache": "^4.0.1",
+    "mustache": "^4.2.0",
     "node-fetch": "^3.3.0",
     "puppeteer": "^5.1.0"
   }
