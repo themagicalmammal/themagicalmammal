@@ -1,5 +1,5 @@
 {
-  "name": "thmsgbrt",
+  "name": "themagicalmammal",
   "version": "1.0.0",
   "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
+    "url": "git+https://github.com/themagicalmammal/themagicalmammal.git"
   },
   "keywords": [
     "readme.md",
@@ -20,9 +20,9 @@
   "author": "Thomas Guibert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thmsgbrt/thmsgbrt/issues"
+    "url": "https://github.com/themagicalmammal/themagicalmammal/issues"
   },
-  "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
+  "homepage": "https://github.com/themagicalmammal/themagicalmammal#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mustache": "^4.0.1",
