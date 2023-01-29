@@ -4,14 +4,14 @@
   <b>London, England</b>. <img align="right" width="230" height="auto" src="/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> 2°C, <i>clear sky</i>
+</h3> Currently, the weather is: <b> 5°C, <i>broken clouds</i>
 </b>
 <br /> Today, the sun rises at <b>07:05</b> and sets at <b>14:55</b>. </p>
 <h3>
   <img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing
 </h3>
 <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6">
-  <img src="https://spotify-playing-now-readme-8u5laga6k-dipanspotify.vercel.app/api/now-playing.svg" width="490" alt="Spotify" />
+  <img src="https://spotify-dipan.vercel.app/api/now-playing.svg" width="490" alt="Spotify" />
 </a>
 <h3>
   <img src="https://i.imgur.com/yQHTmCW.png" width="15" /> Where to find me
@@ -70,7 +70,7 @@
   <h3>
     <img src="https://cdn-icons-png.flaticon.com/512/4257/4257487.png" width="15" /> Tech Stack
   </h3>
-  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,latex,linux,md,bash,git,visualstudio,angular,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,latex,linux,md,bash,github,git,visualstudio,cpp,mysql" />
   <br />
   <details>
     <summary> &#9655;</summary>
@@ -124,6 +124,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Sunday, 29 January, 12:04 GMT
+  <b> Last Refresh: </b> Sunday, 29 January, 18:18 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" />
