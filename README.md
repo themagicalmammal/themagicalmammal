@@ -74,7 +74,7 @@
   <br />
   <details>
     <summary> &#9655;</summary>
-    <img align="right" width="190" height="auto" src="hhttps://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/4.gif">
+    <img align="right" width="190" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/4.gif">
     <h3>
       <img src="https://i.imgur.com/x8tsLuE.png" width="15" /> Trophies
     </h3>
@@ -124,6 +124,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Tuesday, 31 January, 08:43 GMT
+  <b> Last Refresh: </b> Tuesday, 31 January, 08:46 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" />
