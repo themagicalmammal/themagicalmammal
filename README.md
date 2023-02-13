@@ -4,9 +4,9 @@
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> -3°C, <i>scattered clouds</i>
+</h3> Currently, the weather is: <b> 2°C, <i>overcast clouds</i>
 </b>
-<br /> Today, the sun rises at <b>06:32</b> and sets at <b>15:31</b>. </p>
+<br /> Today, the sun rises at <b>06:30</b> and sets at <b>15:34</b>. </p>
 <h3>
   <img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing
 </h3>
@@ -32,7 +32,7 @@
   <img alt="Telegram" width="5.4%" src="https://i.imgur.com/8uCq4fi.png" />
 </a>
 <a href="https://www.kaggle.com/themagicalmammal">
-  <img alt="Kaggle" width="5.4%" src="https://i.imgur.com/6XAnA1Y.png" />
+  <img alt="Kaggle" width="5.4%" src="https://i.imgur.com/vgxCSKx.png" />
 </a>
 <a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/">
   <img alt="XDA" width="5.4%" src="https://i.imgur.com/ZkDQREa.png" />
@@ -124,6 +124,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Sunday, 12 February, 03:22 GMT
+  <b> Last Refresh: </b> Monday, 13 February, 03:25 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" />
