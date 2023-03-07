@@ -84,6 +84,7 @@
     <br />
     <details>
     <summary> &#9655;</summary>
+    <img align="right" width="190" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/5.gif">
     <h3>
       <img src="https://i.imgur.com/E9Droaq.png" width="15" /> End Credits
     </h3>
@@ -114,6 +115,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Tuesday, 7 March, 22:40 GMT
+  <b> Last Refresh: </b> Tuesday, 7 March, 22:45 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" width="100%" />
