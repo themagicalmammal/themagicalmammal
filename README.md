@@ -16,61 +16,63 @@
 <h3>
   <img src="https://i.imgur.com/yQHTmCW.png" width="15" /> Where to find me
 </h3>
-<a href="https://gist.github.com/themagicalmammal/">
-  <img alt="Gist" width="5.4%" src="https://i.imgur.com/6w4HNmL.png" />
-</a>
-<a href="https://pypi.org/user/themagicalmammal/">
-  <img alt="Pypi" width="5.4%" src="https://i.imgur.com/901ps8h.png" />
-</a>
-<a href="https://uk.linkedin.com/in/themagicalmammal/">
-  <img alt="Linkedin" width="5.4%" src="https://i.imgur.com/Hp2w5wM.png" />
-</a>
-<a href="https://www.reddit.com/user/themagicalmammal/">
-  <img alt="Reddit" width="5.4%" src="https://i.imgur.com/E8vTLyb.png" />
-</a>
-<a href="https://telegram.im/@themagicalmammal">
-  <img alt="Telegram" width="5.4%" src="https://i.imgur.com/8uCq4fi.png" />
-</a>
-<a href="https://www.kaggle.com/themagicalmammal">
-  <img alt="Kaggle" width="5.4%" src="https://i.imgur.com/vgxCSKx.png" />
-</a>
-<a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/">
-  <img alt="XDA" width="5.4%" src="https://i.imgur.com/ZkDQREa.png" />
-</a>
-<a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf">
-  <img alt="Coursera" width="5.4%" src="https://i.imgur.com/bxjrGF3.png" />
-</a>
-<a href="https://www.sololearn.com/profile/4562055">
-  <img alt="Sololearn" width="5.4%" src="https://i.imgur.com/6mnh2V5.png" />
-</a>
-<a href="https://www.quora.com/profile/Dipan-Nanda">
-  <img alt="Quora" width="5.4%" src="https://i.imgur.com/4fFA2aO.png" />
-</a>
-<a href="https://dsc.bio/themagicalmammal">
-  <img alt="Discord" width="5.4%" src="https://i.imgur.com/allk32s.png" />
-</a>
-<a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6?si=i5kyqZQOQmOu_NRn-T7FQw&nd=1">
-  <img alt="Spotify" width="5.4%" src="https://i.imgur.com/TuGJlcZ.png" />
-</a>
-<a href="https://www.deviantart.com/themagicalmammal">
-  <img alt="Devintart" width="5.4%" src="https://i.imgur.com/YWUKoPE.png" />
-</a>
-<a href="https://myanimelist.net/profile/themagicalmammal">
-  <img alt="MAL" width="5.4%" src="https://i.imgur.com/TnZcuA4.png" />
-</a>
-<a href="https://medium.com/@d19cyber">
-  <img alt="Medium" width="5.4%" src="https://i.imgur.com/HvRIk6L.png" />
-</a>
-<a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ">
-  <img alt="Plum" width="5.4%" src="https://i.imgur.com/PNhxaKM.png" />
-</a>
+<div width="100%">
+  <a href="https://gist.github.com/themagicalmammal/">
+    <img alt="Gist" width="5.4%" src="https://i.imgur.com/6w4HNmL.png" />
+  </a>
+  <a href="https://pypi.org/user/themagicalmammal/">
+    <img alt="Pypi" width="5.4%" src="https://i.imgur.com/901ps8h.png" />
+  </a>
+  <a href="https://uk.linkedin.com/in/themagicalmammal/">
+    <img alt="Linkedin" width="5.4%" src="https://i.imgur.com/Hp2w5wM.png" />
+  </a>
+  <a href="https://www.reddit.com/user/themagicalmammal/">
+    <img alt="Reddit" width="5.4%" src="https://i.imgur.com/E8vTLyb.png" />
+  </a>
+  <a href="https://telegram.im/@themagicalmammal">
+    <img alt="Telegram" width="5.4%" src="https://i.imgur.com/8uCq4fi.png" />
+  </a>
+  <a href="https://www.kaggle.com/themagicalmammal">
+    <img alt="Kaggle" width="5.4%" src="https://i.imgur.com/vgxCSKx.png" />
+  </a>
+  <a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/">
+    <img alt="XDA" width="5.4%" src="https://i.imgur.com/ZkDQREa.png" />
+  </a>
+  <a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf">
+    <img alt="Coursera" width="5.4%" src="https://i.imgur.com/bxjrGF3.png" />
+  </a>
+  <a href="https://www.sololearn.com/profile/4562055">
+    <img alt="Sololearn" width="5.4%" src="https://i.imgur.com/6mnh2V5.png" />
+  </a>
+  <a href="https://www.quora.com/profile/Dipan-Nanda">
+    <img alt="Quora" width="5.4%" src="https://i.imgur.com/4fFA2aO.png" />
+  </a>
+  <a href="https://dsc.bio/themagicalmammal">
+    <img alt="Discord" width="5.4%" src="https://i.imgur.com/allk32s.png" />
+  </a>
+  <a href="https://open.spotify.com/user/88h9x52o4rver6y7ka9upj5a6?si=i5kyqZQOQmOu_NRn-T7FQw&nd=1">
+    <img alt="Spotify" width="5.4%" src="https://i.imgur.com/TuGJlcZ.png" />
+  </a>
+  <a href="https://www.deviantart.com/themagicalmammal">
+    <img alt="Devintart" width="5.4%" src="https://i.imgur.com/YWUKoPE.png" />
+  </a>
+  <a href="https://myanimelist.net/profile/themagicalmammal">
+    <img alt="MAL" width="5.4%" src="https://i.imgur.com/TnZcuA4.png" />
+  </a>
+  <a href="https://medium.com/@d19cyber">
+    <img alt="Medium" width="5.4%" src="https://i.imgur.com/HvRIk6L.png" />
+  </a>
+  <a href="https://secure.plum.io/p/2Ui2Qr0KSS7QP04pEq_-BQ">
+    <img alt="Plum" width="5.4%" src="https://i.imgur.com/PNhxaKM.png" />
+  </a>
+</div>
 <br />
 <details>
   <summary> &#9655;</summary>
   <h3>
     <img src="https://cdn-icons-png.flaticon.com/512/4257/4257487.png" width="15" /> Tech Stack
   </h3>
-  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,latex,linux,md,bash,github,git,visualstudio,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,latex,linux,md,bash,github,git,visualstudio,cpp,mysql" width="100%" />
   <br />
   <details>
     <summary> &#9655;</summary>
@@ -112,6 +114,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Tuesday, 7 March, 22:33 GMT
+  <b> Last Refresh: </b> Tuesday, 7 March, 22:40 GMT
 </p>
-<img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" />
+<img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" width="100%" />
