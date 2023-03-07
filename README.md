@@ -1,5 +1,5 @@
 <img href="https://themagicalmammal.wrapped.run" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/header.gif" />
-<p> I am Dipan, a Python Developer at <a href="https://www.etlsystems.com">
+<p> I am Dipan, a Full stack Developer at <a href="https://www.appliedagi.com">
     <img src="https://i.imgur.com/ofUpTeO.png" width="70" /> </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" />
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
@@ -124,6 +124,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Tuesday, 7 March, 22:20 GMT
+  <b> Last Refresh: </b> Tuesday, 7 March, 22:21 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" />
