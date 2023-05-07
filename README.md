@@ -1,10 +1,10 @@
 <img href="https://themagicalmammal.wrapped.run" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/header.gif" />
 <p> I am Dipan, a Full stack Developer at <a href="https://www.appliedagi.com">
-    <img src="https://i.imgur.com/ofUpTeO.png" width="70" /> </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" />
+    <img src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/1bf6f139a83612392e50703c08b3f0e269d4f0c5/images/job.svg" width="70" /> </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" />
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> -2°C, <i>overcast clouds</i>
+</h3> Currently, the weather is: <b> 11°C, <i>clear sky</i>
 </b>
 <br /> Today, the sun rises at <b>03:34</b> and sets at <b>19:53</b>. </p>
 <h3>
@@ -115,6 +115,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Sunday, 7 May, 04:17 BST
+  <b> Last Refresh: </b> Sunday, 7 May, 15:16 BST
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" width="100%" />
