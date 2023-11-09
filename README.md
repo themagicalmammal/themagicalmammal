@@ -3,7 +3,7 @@
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> 8°C, <i>light intensity drizzle</i>
+</h3> Currently, the weather is: <b> 8°C, <i>light rain</i>
 </b>
 <br /> Today, the sun rises at <b>06:25</b> and sets at <b>14:37</b>. </p>
 <h3>
@@ -69,7 +69,7 @@
 <details>
   <summary> &#9655;</summary>
   <h3>
-    <img src="https://cdn-icons-png.flaticon.com/512/7134/7134618.png" width="15" /> Tech Stack
+    <img src="https://cdn-icons-png.flaticon.com/128/9626/9626716.png" width="15" /> Tech Stack
   </h3>
   <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,latex,linux,md,bash,github,git,visualstudio,cpp,mysql" width="100%" />
   <br />
@@ -113,6 +113,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Thursday, 9 November, 20:59 GMT
+  <b> Last Refresh: </b> Thursday, 9 November, 21:03 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=e96d60&height=80&section=footer" width="100%" />
