@@ -88,13 +88,12 @@
       <img src="https://i.imgur.com/E9Droaq.png" width="15" /> End Credits
     </h3>
     <div>
-      <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="3.6%" />
       <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="3.6%" />
       <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="3.6%" />
       <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="3.6%" />
-      <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="3.6%" />
+      <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="3.6%" />
       <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="3.6%" />
-      <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="3.6%" />
+      <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="3.6%" />
       <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="3.6%" />
       <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="3.6%" />
       <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="3.6%" />
@@ -114,6 +113,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Thursday, 9 November, 20:14 GMT
+  <b> Last Refresh: </b> Thursday, 9 November, 20:20 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=e96d60&height=80&section=footer" width="100%" />
