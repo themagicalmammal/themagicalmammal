@@ -3,7 +3,7 @@
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> 5°C, <i>overcast clouds</i>
+</h3> Currently, the weather is: <b> 8°C, <i>light rain</i>
 </b>
 <br /> Today, the sun rises at <b>06:25</b> and sets at <b>14:37</b>. </p>
 <h3>
@@ -37,7 +37,7 @@
   <a href="https://forum.xda-developers.com/m/themagicalmammal.9670192/">
     <img alt="XDA" width="5.4%" src="https://i.imgur.com/ZkDQREa.png" />
   </a>
-  <a href="https://www.coursera.org/user/ccc24c4adb1726e9cbdef303b15cdbcf">
+  <a href="https://www.coursera.org/learner/themagicalmammal">
     <img alt="Coursera" width="5.4%" src="https://i.imgur.com/bxjrGF3.png" />
   </a>
   <a href="https://www.sololearn.com/profile/4562055">
@@ -114,6 +114,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Thursday, 9 November, 03:17 GMT
+  <b> Last Refresh: </b> Thursday, 9 November, 19:07 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=f297c0&height=80&section=footer" width="100%" />
