@@ -69,7 +69,7 @@
 <details>
   <summary> &#9655;</summary>
   <h3>
-    <img src="/images/icons/bionic-eye.gif" width="15" /> Tech Stack
+    <img src="https://cdn-icons-png.flaticon.com/512/7134/7134618.png" width="15" /> Tech Stack
   </h3>
   <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,latex,linux,md,bash,github,git,visualstudio,cpp,mysql" width="100%" />
   <br />
@@ -113,6 +113,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Thursday, 9 November, 20:52 GMT
+  <b> Last Refresh: </b> Thursday, 9 November, 20:59 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=e96d60&height=80&section=footer" width="100%" />
