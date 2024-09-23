@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
 </h3> Currently, the weather is: <b> 9°C, <i>overcast clouds</i>
 </b>
-<br /> Today, the sun rises at <b>05:32</b> and sets at <b>17:48</b>. </p>
+<br /> Today, the sun rises at <b>05:35</b> and sets at <b>17:45</b>. </p>
 <h3>
   <img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing
 </h3>
@@ -113,6 +113,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Sunday, 22 September, 04:27 BST
+  <b> Last Refresh: </b> Monday, 23 September, 04:26 BST
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=e96d60&height=80&section=footer" width="100%" />
