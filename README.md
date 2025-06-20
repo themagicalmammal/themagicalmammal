@@ -3,7 +3,7 @@
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> 12°C, <i>heavy intensity rain</i>
+</h3> Currently, the weather is: <b> 13°C, <i>clear sky</i>
 </b>
 <br /> Today, the sun rises at <b>02:30</b> and sets at <b>21:07</b>. </p>
 <h3>
@@ -113,6 +113,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Thursday, 19 June, 04:50 BST
+  <b> Last Refresh: </b> Friday, 20 June, 04:49 BST
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=e96d60&height=80&section=footer" width="100%" />
