@@ -3,7 +3,7 @@
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> -1°C, <i>scattered clouds</i>
+</h3> Currently, the weather is: <b> -1°C, <i>snow</i>
 </b>
 <br /> Today, the sun rises at <b>06:53</b> and sets at <b>14:13</b>. </p>
 <h3>
@@ -73,14 +73,6 @@
   </h3>
   <img src="https://skillicons.dev/icons?i=py,django,html,css,js,r,latex,linux,md,bash,github,git,visualstudio,cpp,mysql" width="100%" />
   <br />
-  <details>
-    <summary> &#9655;</summary>
-    <img align="right" width="190" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/4.gif">
-    <h3>
-      <img src="https://i.imgur.com/x8tsLuE.png" width="15" /> Trophies
-    </h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=themagicalmammal&amp;theme=onestar&amp;row=1&amp;column=4" alt="trophy" />
-    <br />
     <details>
     <summary> &#9655;</summary>
     <img align="right" width="190" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/5.gif">
@@ -113,6 +105,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Thursday, 20 November, 20:45 GMT
+  <b> Last Refresh: </b> Thursday, 20 November, 21:30 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=e96d60&height=80&section=footer" width="100%" />
