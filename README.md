@@ -3,9 +3,9 @@
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> 16°C, <i>few clouds</i>
+</h3> Currently, the weather is: <b> 15°C, <i>broken clouds</i>
 </b>
-<br /> Today, the sun rises at <b>02:56</b> and sets at <b>20:32</b>. </p>
+<br /> Today, the sun rises at <b>02:54</b> and sets at <b>20:34</b>. </p>
 <h3>
   <img src="https://i.imgur.com/aSVPWXc.png" width="15" /> Spotify Playing
 </h3>
@@ -105,6 +105,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Sunday, 24 May, 07:40 BST
+  <b> Last Refresh: </b> Monday, 25 May, 08:19 BST
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=e96d60&height=80&section=footer" width="100%" />
