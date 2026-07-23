@@ -17,16 +17,15 @@
     "dynamic",
     "javascript"
   ],
-  "author": "Thomas Guibert",
+  "author": "Dipan Nanda",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/themagicalmammal/themagicalmammal/issues"
   },
   "homepage": "https://github.com/themagicalmammal/themagicalmammal#readme",
   "dependencies": {
-    "dotenv": "^8.6.0",
+    "dotenv": "^17.0.0",
     "mustache": "^4.2.0",
-    "node-fetch": "^2.7.0",
-    "puppeteer": "^5.5.0"
+    "puppeteer": "^25.0.0"
   }
 }
