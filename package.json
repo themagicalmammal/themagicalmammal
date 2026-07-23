@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/themagicalmammal/themagicalmammal#readme",
   "dependencies": {
-    "dotenv": "^17.0.0",
+    "dotenv": "^17.4.2",
     "mustache": "^4.2.0",
-    "puppeteer": "^25.0.0"
+    "puppeteer": "^25.3.0"
   }
 }
