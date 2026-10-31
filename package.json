@@ -26,6 +26,6 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "mustache": "^4.2.0",
-    "puppeteer": "^25.3.0"
+    "puppeteer": "^25.16.0"
   }
 }
