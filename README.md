@@ -1,9 +1,9 @@
 <img href="https://themagicalmammal.wrapped.run" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/header.gif" />
-<p> I am Dipan, a Full Stack Developer at <a href="https://www.appliedagi.com"> <img src="images/job.svg" width="15" /> <b>Applied AGI</b> </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" />
+<p> I am Dipan, a Senior Developer at <a href="https://www.appliedagi.com"> <img src="images/job.svg" width="15" /> <b>Applied AGI</b> </a> in <img src="https://i.imgur.com/DPngeUJ.png" width="13" />
   <b>London, England</b>. <img align="right" width="230" height="auto" src="https://raw.githubusercontent.com/themagicalmammal/themagicalmammal/master/images/octocat/6.gif">
 <h3>
   <img src="https://i.imgur.com/HFHIBmx.png" width="15" /> Weather in London
-</h3> Currently, the weather is: <b> 6°C, <i>broken clouds</i>
+</h3> Currently, the weather is: <b> 4°C, <i>moderate rain</i>
 </b>
 <br /> Today, the sun rises at <b>06:43</b> and sets at <b>14:21</b>. </p>
 <h3>
@@ -105,6 +105,6 @@
 </details>
 <p>
   <img src="https://i.imgur.com/JgaEjcz.png" width="11" />
-  <b> Last Refresh: </b> Monday 16 November at 10:52 GMT
+  <b> Last Refresh: </b> Monday 16 November at 19:09 GMT
 </p>
 <img src="https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=e96d60&height=80&section=footer" width="100%" />
